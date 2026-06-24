@@ -1,0 +1,24 @@
+---
+title: What Really Happened in Glamorgan's UFO... Sub-Topic Index
+title_full: What Really Happened in Glamorgan's UFO... Sub-Topic Index
+display_title: Sub-Topic Index
+display_title_short: Sub-Topic Index
+nav_short_title: Sub-Topic Index
+permalink: /glamorgan-7b8978-index/
+description: Focused pages that expand on What Really Happened in Glamorgan's UFO....
+date: '2026-06-24'
+layout: default
+parent_basename: Glamorgan_7b8978
+parent_title: What Really Happened in Glamorgan's UFO...
+parent_nav_short_title: What Really Happened in Glamorgan's UFO...
+parent_permalink: /what-really-happened-in-glamorgans-ufo/
+---
+
+# Explore Topics in What Really Happened in Glamorgan's UFO...
+
+The following pages expand on the main **[What Really Happened in Glamorgan's UFO...]({{ '/what-really-happened-in-glamorgans-ufo/' | relative_url }})** page and cover its key branches in more detail.
+
+- [Coastal Lights]({{ '/coastal-lights/' | relative_url }})
+- [Lantern Flap]({{ '/lantern-flap/' | relative_url }})
+- [Mo D Logs]({{ '/mo-d-logs-f8d58d/' | relative_url }})
+- [St Athan]({{ '/st-athan/' | relative_url }})

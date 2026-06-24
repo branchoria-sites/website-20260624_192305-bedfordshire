@@ -1,0 +1,6609 @@
+{
+  "version": 1,
+  "page_count": 440,
+  "total_page_seconds": 701.5597,
+  "average_page_seconds": 1.5945,
+  "phase_totals_seconds": {
+    "content_assembly": 328.1336,
+    "youtube": 121.5653,
+    "monetization": 110.322,
+    "media_svg": 75.0757,
+    "preparation": 46.5557,
+    "quality_write": 19.9094
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Cheshire_f5f9e8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 58.497,
+      "phases": {
+        "preparation": 0.1574,
+        "media_svg": 0.3904,
+        "youtube": 51.821,
+        "content_assembly": 0.9515,
+        "monetization": 5.1163,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Cheshire_f5f9e8_cheshire_boundaries_81b591",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 50.3844,
+      "phases": {
+        "preparation": 0.1103,
+        "media_svg": 0.3442,
+        "youtube": 47.9875,
+        "content_assembly": 0.7915,
+        "monetization": 1.1075,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "Huntingdonshire_d54801",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8631,
+      "phases": {
+        "preparation": 0.1246,
+        "media_svg": 0.1168,
+        "youtube": 0.009,
+        "content_assembly": 1.0203,
+        "monetization": 6.5306,
+        "quality_write": 0.0618
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7_county_boundaries_re_faec68",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.9416,
+      "phases": {
+        "preparation": 0.0778,
+        "media_svg": 0.1525,
+        "youtube": 0.0105,
+        "content_assembly": 0.6649,
+        "monetization": 5.9873,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Warwickshire_17be07_leamington_black_rin_47ea8f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.039,
+      "phases": {
+        "preparation": 0.0679,
+        "media_svg": 0.2386,
+        "youtube": 0.0114,
+        "content_assembly": 0.62,
+        "monetization": 5.0613,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7_official_records_sea_ca6acd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0566,
+      "phases": {
+        "preparation": 0.0524,
+        "media_svg": 0.145,
+        "youtube": 0.0093,
+        "content_assembly": 0.6236,
+        "monetization": 4.1773,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "Surrey_aeac76_farnborough_guildfor_59df05",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4716,
+      "phases": {
+        "preparation": 0.0472,
+        "media_svg": 0.1874,
+        "youtube": 0.0109,
+        "content_assembly": 0.6052,
+        "monetization": 3.5399,
+        "quality_write": 0.0811
+      }
+    },
+    {
+      "base_name": "Wigtownshire_1186ed_west_freugh_radar_ca_72e794",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8616,
+      "phases": {
+        "preparation": 0.0802,
+        "media_svg": 0.132,
+        "youtube": 0.0108,
+        "content_assembly": 0.6576,
+        "monetization": 2.9438,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "East_Lothian_a7dd3d_false_positives_f6ef28",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4673,
+      "phases": {
+        "preparation": 0.0953,
+        "media_svg": 0.1378,
+        "youtube": 2.3406,
+        "content_assembly": 0.7964,
+        "monetization": 0.0565,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Lincolnshire_92cf52_mod_reports_853d4a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3596,
+      "phases": {
+        "preparation": 0.0859,
+        "media_svg": 0.2684,
+        "youtube": 0.0116,
+        "content_assembly": 0.646,
+        "monetization": 2.2969,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "Pembrokeshire_b220ff",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2988,
+      "phases": {
+        "preparation": 0.1798,
+        "media_svg": 0.1343,
+        "youtube": 0.0075,
+        "content_assembly": 1.0015,
+        "monetization": 1.8989,
+        "quality_write": 0.0769
+      }
+    },
+    {
+      "base_name": "Leicestershire_f2eb49_leicester_bright_lig_767f2e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.185,
+      "phases": {
+        "preparation": 0.1072,
+        "media_svg": 0.3304,
+        "youtube": 1.1654,
+        "content_assembly": 0.6889,
+        "monetization": 0.8509,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Cheshire_f5f9e8_mod_cheshire_reports_f3c99b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9199,
+      "phases": {
+        "preparation": 0.0784,
+        "media_svg": 0.2652,
+        "youtube": 1.3275,
+        "content_assembly": 0.6322,
+        "monetization": 0.5511,
+        "quality_write": 0.0655
+      }
+    },
+    {
+      "base_name": "Sutherland_6dbe51_lochinver_fireballs_132391",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8749,
+      "phases": {
+        "preparation": 0.0712,
+        "media_svg": 0.1347,
+        "youtube": 0.0112,
+        "content_assembly": 0.6602,
+        "monetization": 1.9597,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Derbyshire_ebae69_mod_derbyshire_logs_13cb4e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8403,
+      "phases": {
+        "preparation": 0.0565,
+        "media_svg": 0.1159,
+        "youtube": 0.0169,
+        "content_assembly": 0.6514,
+        "monetization": 1.9519,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Wiltshire_7b9f94_warminster_thing_7bc4fa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7631,
+      "phases": {
+        "preparation": 0.1314,
+        "media_svg": 0.2442,
+        "youtube": 0.011,
+        "content_assembly": 0.678,
+        "monetization": 1.6559,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Clackmannanshire_a9d2bc_bonnybridge_influenc_3aa047",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6983,
+      "phases": {
+        "preparation": 0.0859,
+        "media_svg": 0.1736,
+        "youtube": 0.0143,
+        "content_assembly": 0.6726,
+        "monetization": 1.7173,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Essex_17957d_orange_light_wave_a0ef61",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6018,
+      "phases": {
+        "preparation": 0.0921,
+        "media_svg": 0.1354,
+        "youtube": 0.0122,
+        "content_assembly": 0.6443,
+        "monetization": 1.6743,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Selkirkshire_8fd2aa",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5318,
+      "phases": {
+        "preparation": 0.1083,
+        "media_svg": 0.1966,
+        "youtube": 1.2064,
+        "content_assembly": 0.9192,
+        "monetization": 0.0452,
+        "quality_write": 0.0562
+      }
+    },
+    {
+      "base_name": "Aberdeenshire_e04348",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5126,
+      "phases": {
+        "preparation": 0.1398,
+        "media_svg": 0.148,
+        "youtube": 1.1775,
+        "content_assembly": 0.9559,
+        "monetization": 0.0249,
+        "quality_write": 0.0665
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Cheshire_f5f9e8_cheshire_boundaries_81b591",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 50.3844,
+      "phases": {
+        "preparation": 0.1103,
+        "media_svg": 0.3442,
+        "youtube": 47.9875,
+        "content_assembly": 0.7915,
+        "monetization": 1.1075,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "Cheshire_f5f9e8_dunham_massey_balloo_84a988",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3311,
+      "phases": {
+        "preparation": 0.0675,
+        "media_svg": 0.2418,
+        "youtube": 0.0096,
+        "content_assembly": 0.6191,
+        "monetization": 1.3303,
+        "quality_write": 0.0627
+      }
+    },
+    {
+      "base_name": "Cheshire_f5f9e8_mod_cheshire_reports_f3c99b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9199,
+      "phases": {
+        "preparation": 0.0784,
+        "media_svg": 0.2652,
+        "youtube": 1.3275,
+        "content_assembly": 0.6322,
+        "monetization": 0.5511,
+        "quality_write": 0.0655
+      }
+    },
+    {
+      "base_name": "Cheshire_f5f9e8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 58.497,
+      "phases": {
+        "preparation": 0.1574,
+        "media_svg": 0.3904,
+        "youtube": 51.821,
+        "content_assembly": 0.9515,
+        "monetization": 5.1163,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Cornwall_4c96d0",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5536,
+      "phases": {
+        "preparation": 0.193,
+        "media_svg": 0.2911,
+        "youtube": 0.0139,
+        "content_assembly": 0.9543,
+        "monetization": 0.0372,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "Cheshire_f5f9e8_orange_lights_2008_0_4d3b1a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0203,
+      "phases": {
+        "preparation": 0.0794,
+        "media_svg": 0.0989,
+        "youtube": 0.0113,
+        "content_assembly": 0.6556,
+        "monetization": 1.1392,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Cornwall_4c96d0_camborne_police_sigh_c48ec1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0868,
+      "phases": {
+        "preparation": 0.0844,
+        "media_svg": 0.237,
+        "youtube": 0.0081,
+        "content_assembly": 0.6578,
+        "monetization": 0.0587,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Cornwall_4c96d0_mod_final_years_corn_ee5ee8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2395,
+      "phases": {
+        "preparation": 0.0958,
+        "media_svg": 0.3183,
+        "youtube": 0.0113,
+        "content_assembly": 0.705,
+        "monetization": 0.0746,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Cornwall_4c96d0_records_vs_media_cla_5b6f03",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1951,
+      "phases": {
+        "preparation": 0.1148,
+        "media_svg": 0.2872,
+        "youtube": 0.0078,
+        "content_assembly": 0.6734,
+        "monetization": 0.0594,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "Cumberland_f993d3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.571,
+      "phases": {
+        "preparation": 0.1415,
+        "media_svg": 0.1372,
+        "youtube": 0.0144,
+        "content_assembly": 0.9792,
+        "monetization": 0.1928,
+        "quality_write": 0.1061
+      }
+    },
+    {
+      "base_name": "Cornwall_4c96d0_tintagel_triangle_re_735051",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4278,
+      "phases": {
+        "preparation": 0.0588,
+        "media_svg": 0.2773,
+        "youtube": 0.0111,
+        "content_assembly": 0.6532,
+        "monetization": 1.385,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Cumberland_f993d3_mod_carlisle_reports_0b920e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6262,
+      "phases": {
+        "preparation": 0.1006,
+        "media_svg": 0.1359,
+        "youtube": 0.0196,
+        "content_assembly": 0.66,
+        "monetization": 0.6736,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "Cumberland_f993d3_burgh_marsh_folklore_7aefeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6761,
+      "phases": {
+        "preparation": 0.1091,
+        "media_svg": 0.2361,
+        "youtube": 0.0118,
+        "content_assembly": 0.697,
+        "monetization": 0.5853,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Cumberland_f993d3_solway_spaceman_phot_1fb252",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0944,
+      "phases": {
+        "preparation": 0.046,
+        "media_svg": 0.1307,
+        "youtube": 1.1726,
+        "content_assembly": 0.6541,
+        "monetization": 0.0605,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Cumberland_f993d3_police_drone_sightin_ac77eb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1839,
+      "phases": {
+        "preparation": 0.1093,
+        "media_svg": 0.247,
+        "youtube": 0.0152,
+        "content_assembly": 0.7544,
+        "monetization": 1.0153,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "Derbyshire_ebae69",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3572,
+      "phases": {
+        "preparation": 0.1374,
+        "media_svg": 0.1186,
+        "youtube": 0.0153,
+        "content_assembly": 0.9811,
+        "monetization": 0.0473,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Derbyshire_ebae69_mod_derbyshire_logs_13cb4e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8403,
+      "phases": {
+        "preparation": 0.0565,
+        "media_svg": 0.1159,
+        "youtube": 0.0169,
+        "content_assembly": 0.6514,
+        "monetization": 1.9519,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Derbyshire_ebae69_bonsall_rowlands_hot_ef4734",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.518,
+      "phases": {
+        "preparation": 0.0744,
+        "media_svg": 0.2583,
+        "youtube": 0.0122,
+        "content_assembly": 0.6381,
+        "monetization": 0.4868,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "Derbyshire_ebae69_orange_lights_2008_0_4d3b1a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.043,
+      "phases": {
+        "preparation": 0.0725,
+        "media_svg": 0.205,
+        "youtube": 0.0103,
+        "content_assembly": 0.6406,
+        "monetization": 0.061,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Derbyshire_ebae69_matlock_triangle_pat_c5e1cb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1495,
+      "phases": {
+        "preparation": 0.0701,
+        "media_svg": 0.31,
+        "youtube": 0.008,
+        "content_assembly": 0.6654,
+        "monetization": 0.0572,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Devon_a55796_venus_devon_skies_95af66",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4147,
+      "phases": {
+        "preparation": 0.1266,
+        "media_svg": 0.2931,
+        "youtube": 0.0132,
+        "content_assembly": 0.8692,
+        "monetization": 0.0719,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Devon_a55796",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5378,
+      "phases": {
+        "preparation": 0.1421,
+        "media_svg": 0.1281,
+        "youtube": 0.0108,
+        "content_assembly": 1.1577,
+        "monetization": 0.042,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "Devon_a55796_berry_head_records_g_8ae7d6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1597,
+      "phases": {
+        "preparation": 0.0703,
+        "media_svg": 0.2654,
+        "youtube": 0.0149,
+        "content_assembly": 0.6459,
+        "monetization": 0.1283,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Devon_a55796_mod_devon_sighting_l_55983d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7476,
+      "phases": {
+        "preparation": 0.073,
+        "media_svg": 0.1111,
+        "youtube": 0.0101,
+        "content_assembly": 0.6442,
+        "monetization": 0.8706,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Devon_a55796_north_devon_flying_c_18e8b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9822,
+      "phases": {
+        "preparation": 0.0573,
+        "media_svg": 0.2197,
+        "youtube": 0.0073,
+        "content_assembly": 0.6135,
+        "monetization": 0.049,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Dorset_51e44a_orange_light_wave_a0ef61",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9362,
+      "phases": {
+        "preparation": 0.1168,
+        "media_svg": 0.141,
+        "youtube": 0.0108,
+        "content_assembly": 0.6913,
+        "monetization": 0.917,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "Dorset_51e44a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3605,
+      "phases": {
+        "preparation": 0.1246,
+        "media_svg": 0.1038,
+        "youtube": 0.0118,
+        "content_assembly": 0.946,
+        "monetization": 1.1009,
+        "quality_write": 0.0735
+      }
+    },
+    {
+      "base_name": "Dorset_51e44a_dorset_police_logs_b04a07",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9685,
+      "phases": {
+        "preparation": 0.0768,
+        "media_svg": 0.1447,
+        "youtube": 0.0119,
+        "content_assembly": 0.6265,
+        "monetization": 0.0623,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Dorset_51e44a_dorset_sky_factors_02fe9e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1661,
+      "phases": {
+        "preparation": 0.1006,
+        "media_svg": 0.2282,
+        "youtube": 0.0103,
+        "content_assembly": 0.7104,
+        "monetization": 0.0746,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Dorset_51e44a_mod_dorset_reports_488790",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9659,
+      "phases": {
+        "preparation": 0.0864,
+        "media_svg": 0.1368,
+        "youtube": 0.0131,
+        "content_assembly": 0.6428,
+        "monetization": 0.0477,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "County_Durham_9c5285",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.485,
+      "phases": {
+        "preparation": 0.1687,
+        "media_svg": 0.2406,
+        "youtube": 0.0103,
+        "content_assembly": 0.9439,
+        "monetization": 0.062,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "County_Durham_9c5285_mod_logs_boundaries_269e7e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1308,
+      "phases": {
+        "preparation": 0.1837,
+        "media_svg": 0.1308,
+        "youtube": 0.0121,
+        "content_assembly": 0.7036,
+        "monetization": 0.0571,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "County_Durham_9c5285_darlington_airport_l_971e95",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0423,
+      "phases": {
+        "preparation": 0.1197,
+        "media_svg": 0.1381,
+        "youtube": 0.0109,
+        "content_assembly": 0.6737,
+        "monetization": 0.061,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "County_Durham_9c5285_hartlepool_nuclear_c_f5de72",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0392,
+      "phases": {
+        "preparation": 0.0859,
+        "media_svg": 0.2079,
+        "youtube": 0.012,
+        "content_assembly": 0.6442,
+        "monetization": 0.0522,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "County_Durham_9c5285_seaham_orange_lights_ea3a0f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1001,
+      "phases": {
+        "preparation": 0.0671,
+        "media_svg": 0.3131,
+        "youtube": 0.0111,
+        "content_assembly": 0.6236,
+        "monetization": 0.0514,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Essex_17957d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1707,
+      "phases": {
+        "preparation": 0.1313,
+        "media_svg": 0.1442,
+        "youtube": 0.012,
+        "content_assembly": 0.919,
+        "monetization": 0.8929,
+        "quality_write": 0.0712
+      }
+    },
+    {
+      "base_name": "Essex_17957d_essex_police_logs_f58e03",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3347,
+      "phases": {
+        "preparation": 0.1147,
+        "media_svg": 0.1517,
+        "youtube": 0.0079,
+        "content_assembly": 0.6788,
+        "monetization": 1.342,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Essex_17957d_essex_ufo_explanatio_83c533",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9304,
+      "phases": {
+        "preparation": 0.0905,
+        "media_svg": 0.1019,
+        "youtube": 0.0148,
+        "content_assembly": 0.6321,
+        "monetization": 0.0511,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Essex_17957d_orange_light_wave_a0ef61",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6018,
+      "phases": {
+        "preparation": 0.0921,
+        "media_svg": 0.1354,
+        "youtube": 0.0122,
+        "content_assembly": 0.6443,
+        "monetization": 1.6743,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Essex_17957d_stansted_aviation_re_69cee8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9371,
+      "phases": {
+        "preparation": 0.0718,
+        "media_svg": 0.1184,
+        "youtube": 0.0115,
+        "content_assembly": 0.6443,
+        "monetization": 0.0517,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Gloucestershire_03cc40_aviation_explanation_7af14d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1402,
+      "phases": {
+        "preparation": 0.1257,
+        "media_svg": 0.126,
+        "youtube": 0.0116,
+        "content_assembly": 0.7299,
+        "monetization": 0.1049,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Gloucestershire_03cc40",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8605,
+      "phases": {
+        "preparation": 0.14,
+        "media_svg": 0.1146,
+        "youtube": 0.0082,
+        "content_assembly": 0.951,
+        "monetization": 0.5815,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "Gloucestershire_03cc40_little_rissington_ca_2842df",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1622,
+      "phases": {
+        "preparation": 0.0709,
+        "media_svg": 0.1384,
+        "youtube": 0.0108,
+        "content_assembly": 0.6408,
+        "monetization": 1.23,
+        "quality_write": 0.0713
+      }
+    },
+    {
+      "base_name": "Gloucestershire_03cc40_mod_records_gloucest_47254a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0771,
+      "phases": {
+        "preparation": 0.0625,
+        "media_svg": 0.3222,
+        "youtube": 0.0119,
+        "content_assembly": 0.6205,
+        "monetization": 1.0075,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "Hampshire_5816c9",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5899,
+      "phases": {
+        "preparation": 0.2014,
+        "media_svg": 0.3009,
+        "youtube": 0.0101,
+        "content_assembly": 0.9557,
+        "monetization": 0.0531,
+        "quality_write": 0.0686
+      }
+    },
+    {
+      "base_name": "Gloucestershire_03cc40_modern_sighting_clus_847b76",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0616,
+      "phases": {
+        "preparation": 0.0841,
+        "media_svg": 0.1479,
+        "youtube": 1.0542,
+        "content_assembly": 0.6831,
+        "monetization": 0.0554,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Hampshire_5816c9_official_ufo_records_56a07f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0138,
+      "phases": {
+        "preparation": 0.0927,
+        "media_svg": 0.1466,
+        "youtube": 0.01,
+        "content_assembly": 0.6693,
+        "monetization": 0.0564,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Hampshire_5816c9_aircraft_misidentifi_a1d4cf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0628,
+      "phases": {
+        "preparation": 0.0645,
+        "media_svg": 0.1992,
+        "youtube": 0.0115,
+        "content_assembly": 0.6907,
+        "monetization": 0.0636,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Hampshire_5816c9_portsmouth_1950_rada_a8b31a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6948,
+      "phases": {
+        "preparation": 0.0742,
+        "media_svg": 0.1208,
+        "youtube": 0.0092,
+        "content_assembly": 0.6655,
+        "monetization": 0.791,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Hampshire_5816c9_portsdown_solent_hot_f8bcfe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1544,
+      "phases": {
+        "preparation": 0.1235,
+        "media_svg": 0.1415,
+        "youtube": 1.1135,
+        "content_assembly": 0.6785,
+        "monetization": 0.0554,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Herefordshire_be57fe",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2828,
+      "phases": {
+        "preparation": 0.1215,
+        "media_svg": 0.1163,
+        "youtube": 0.0109,
+        "content_assembly": 0.9389,
+        "monetization": 0.0383,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "Herefordshire_be57fe_mod_sighting_tables_6154b4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1025,
+      "phases": {
+        "preparation": 0.0621,
+        "media_svg": 0.2796,
+        "youtube": 0.0095,
+        "content_assembly": 0.6623,
+        "monetization": 0.0553,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Herefordshire_be57fe_border_geography_cas_7f2ea9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.484,
+      "phases": {
+        "preparation": 0.1605,
+        "media_svg": 0.1275,
+        "youtube": 0.008,
+        "content_assembly": 0.6996,
+        "monetization": 0.4474,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Herefordshire_be57fe_hereford_triangle_re_139a40",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4372,
+      "phases": {
+        "preparation": 0.1141,
+        "media_svg": 0.257,
+        "youtube": 0.0198,
+        "content_assembly": 0.6706,
+        "monetization": 1.3087,
+        "quality_write": 0.067
+      }
+    },
+    {
+      "base_name": "Herefordshire_be57fe_orange_lights_border_0b1292",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3183,
+      "phases": {
+        "preparation": 0.082,
+        "media_svg": 0.118,
+        "youtube": 0.0135,
+        "content_assembly": 0.6193,
+        "monetization": 0.4507,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Hertfordshire_38dc7a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4321,
+      "phases": {
+        "preparation": 0.16,
+        "media_svg": 0.126,
+        "youtube": 0.0181,
+        "content_assembly": 1.0128,
+        "monetization": 0.0491,
+        "quality_write": 0.066
+      }
+    },
+    {
+      "base_name": "Hertfordshire_38dc7a_mod_2009_cluster_d11f30",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5631,
+      "phases": {
+        "preparation": 0.0908,
+        "media_svg": 0.1538,
+        "youtube": 0.0228,
+        "content_assembly": 0.6983,
+        "monetization": 0.5621,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Hertfordshire_38dc7a_older_local_lore_b978f7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1968,
+      "phases": {
+        "preparation": 0.0871,
+        "media_svg": 0.2742,
+        "youtube": 0.0097,
+        "content_assembly": 0.708,
+        "monetization": 0.0766,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Hertfordshire_38dc7a_kim_wilde_sighting_20fed9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8659,
+      "phases": {
+        "preparation": 0.0827,
+        "media_svg": 0.3162,
+        "youtube": 0.0081,
+        "content_assembly": 0.6979,
+        "monetization": 0.7275,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Hertfordshire_38dc7a_aviation_explanation_7af14d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0397,
+      "phases": {
+        "preparation": 0.1092,
+        "media_svg": 0.1901,
+        "youtube": 0.008,
+        "content_assembly": 0.6665,
+        "monetization": 1.0282,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Huntingdonshire_d54801_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9954,
+      "phases": {
+        "preparation": 0.1038,
+        "media_svg": 0.1389,
+        "youtube": 0.015,
+        "content_assembly": 0.6289,
+        "monetization": 0.0727,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Huntingdonshire_d54801_post_2009_reports_23decb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1573,
+      "phases": {
+        "preparation": 0.1055,
+        "media_svg": 0.2778,
+        "youtube": 0.0093,
+        "content_assembly": 0.6567,
+        "monetization": 0.0673,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Huntingdonshire_d54801_megatron_false_ufo_0b5341",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0671,
+      "phases": {
+        "preparation": 0.0583,
+        "media_svg": 0.2299,
+        "youtube": 0.0153,
+        "content_assembly": 0.6663,
+        "monetization": 0.0642,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Huntingdonshire_d54801_raf_alconbury_airfie_0a9f08",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9684,
+      "phases": {
+        "preparation": 0.0587,
+        "media_svg": 0.1279,
+        "youtube": 0.0113,
+        "content_assembly": 0.6715,
+        "monetization": 0.0651,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Kent_4e168a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3129,
+      "phases": {
+        "preparation": 0.1546,
+        "media_svg": 0.1207,
+        "youtube": 0.0088,
+        "content_assembly": 0.9442,
+        "monetization": 0.027,
+        "quality_write": 0.0575
+      }
+    },
+    {
+      "base_name": "Huntingdonshire_d54801",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8631,
+      "phases": {
+        "preparation": 0.1246,
+        "media_svg": 0.1168,
+        "youtube": 0.009,
+        "content_assembly": 1.0203,
+        "monetization": 6.5306,
+        "quality_write": 0.0618
+      }
+    },
+    {
+      "base_name": "Kent_4e168a_alitalia_lydd_near_m_b35021",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0697,
+      "phases": {
+        "preparation": 0.0879,
+        "media_svg": 0.2118,
+        "youtube": 0.0114,
+        "content_assembly": 0.672,
+        "monetization": 0.0508,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Kent_4e168a_kent_aviation_hotspo_2d9a52",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1885,
+      "phases": {
+        "preparation": 0.0937,
+        "media_svg": 0.3226,
+        "youtube": 0.0081,
+        "content_assembly": 0.6849,
+        "monetization": 0.0432,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Kent_4e168a_manston_torres_scram_48adf3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1117,
+      "phases": {
+        "preparation": 0.0851,
+        "media_svg": 0.2271,
+        "youtube": 0.0125,
+        "content_assembly": 0.7033,
+        "monetization": 0.0478,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Kent_4e168a_mod_kent_sighting_li_2d6ff3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9872,
+      "phases": {
+        "preparation": 0.0892,
+        "media_svg": 0.1648,
+        "youtube": 0.0093,
+        "content_assembly": 0.6381,
+        "monetization": 0.0487,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Lancashire_07656d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.628,
+      "phases": {
+        "preparation": 0.176,
+        "media_svg": 0.2132,
+        "youtube": 0.0113,
+        "content_assembly": 0.9588,
+        "monetization": 0.2058,
+        "quality_write": 0.063
+      }
+    },
+    {
+      "base_name": "Lancashire_07656d_historic_lancashire_e0f81e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1596,
+      "phases": {
+        "preparation": 0.1801,
+        "media_svg": 0.1296,
+        "youtube": 0.0074,
+        "content_assembly": 0.7473,
+        "monetization": 0.0489,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Lancashire_07656d_rossendale_moorland_d14991",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9984,
+      "phases": {
+        "preparation": 0.0958,
+        "media_svg": 0.1359,
+        "youtube": 0.0152,
+        "content_assembly": 0.661,
+        "monetization": 0.0507,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "Lancashire_07656d_mod_lancashire_files_08a221",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9783,
+      "phases": {
+        "preparation": 0.0806,
+        "media_svg": 0.1488,
+        "youtube": 0.0161,
+        "content_assembly": 0.646,
+        "monetization": 0.0491,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Lancashire_07656d_blackpool_fylde_repo_11f697",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9069,
+      "phases": {
+        "preparation": 0.0972,
+        "media_svg": 0.1157,
+        "youtube": 0.0071,
+        "content_assembly": 0.6719,
+        "monetization": 0.9796,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Leicestershire_f2eb49",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3512,
+      "phases": {
+        "preparation": 0.1506,
+        "media_svg": 0.1301,
+        "youtube": 0.01,
+        "content_assembly": 0.956,
+        "monetization": 0.0363,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "Leicestershire_f2eb49_mod_sighting_lists_f9beeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9871,
+      "phases": {
+        "preparation": 0.1,
+        "media_svg": 0.2605,
+        "youtube": 0.0103,
+        "content_assembly": 0.6472,
+        "monetization": 0.9292,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Leicestershire_f2eb49_airport_corridor_sig_320904",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0922,
+      "phases": {
+        "preparation": 0.1586,
+        "media_svg": 0.1475,
+        "youtube": 0.0121,
+        "content_assembly": 0.676,
+        "monetization": 0.0514,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "Leicestershire_f2eb49_market_harborough_tr_808bb2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.217,
+      "phases": {
+        "preparation": 0.0762,
+        "media_svg": 0.2499,
+        "youtube": 0.0078,
+        "content_assembly": 0.7726,
+        "monetization": 0.0704,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "Lincolnshire_92cf52",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3595,
+      "phases": {
+        "preparation": 0.1542,
+        "media_svg": 0.1416,
+        "youtube": 0.0135,
+        "content_assembly": 0.9603,
+        "monetization": 0.0303,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Leicestershire_f2eb49_leicester_bright_lig_767f2e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.185,
+      "phases": {
+        "preparation": 0.1072,
+        "media_svg": 0.3304,
+        "youtube": 1.1654,
+        "content_assembly": 0.6889,
+        "monetization": 0.8509,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Lincolnshire_92cf52_raf_skies_cfc14e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1679,
+      "phases": {
+        "preparation": 0.0989,
+        "media_svg": 0.296,
+        "youtube": 0.0151,
+        "content_assembly": 0.6673,
+        "monetization": 0.0523,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "Lincolnshire_92cf52_conisholme_turbine_e4687a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9113,
+      "phases": {
+        "preparation": 0.0494,
+        "media_svg": 0.1497,
+        "youtube": 0.0092,
+        "content_assembly": 0.6091,
+        "monetization": 0.0503,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Lincolnshire_92cf52_orange_lights_2009_331379",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8774,
+      "phases": {
+        "preparation": 0.0555,
+        "media_svg": 0.1168,
+        "youtube": 0.0131,
+        "content_assembly": 0.6156,
+        "monetization": 0.0409,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "Lincolnshire_92cf52_mod_reports_853d4a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3596,
+      "phases": {
+        "preparation": 0.0859,
+        "media_svg": 0.2684,
+        "youtube": 0.0116,
+        "content_assembly": 0.646,
+        "monetization": 2.2969,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "Middlesex_8498da",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6489,
+      "phases": {
+        "preparation": 0.1622,
+        "media_svg": 0.1738,
+        "youtube": 0.0112,
+        "content_assembly": 1.1967,
+        "monetization": 0.0372,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "Middlesex_8498da_airport_skies_c9a5cf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1118,
+      "phases": {
+        "preparation": 0.1367,
+        "media_svg": 0.184,
+        "youtube": 0.0118,
+        "content_assembly": 0.6871,
+        "monetization": 0.0547,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Middlesex_8498da_acton_1972_press_75bfd8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2154,
+      "phases": {
+        "preparation": 0.0821,
+        "media_svg": 0.3441,
+        "youtube": 0.014,
+        "content_assembly": 0.6739,
+        "monetization": 0.0588,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Middlesex_8498da_mod_orange_lights_d395db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3382,
+      "phases": {
+        "preparation": 0.134,
+        "media_svg": 0.1598,
+        "youtube": 0.0143,
+        "content_assembly": 0.6818,
+        "monetization": 0.3077,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Middlesex_8498da_stanmore_1984_police_ab9666",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2716,
+      "phases": {
+        "preparation": 0.0651,
+        "media_svg": 0.268,
+        "youtube": 0.0124,
+        "content_assembly": 0.82,
+        "monetization": 0.0567,
+        "quality_write": 0.0493
+      }
+    },
+    {
+      "base_name": "Norfolk_72ff17",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6173,
+      "phases": {
+        "preparation": 0.1466,
+        "media_svg": 0.2509,
+        "youtube": 0.0152,
+        "content_assembly": 1.1192,
+        "monetization": 0.0289,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "Norfolk_72ff17_lakenheath_neatishea_7ba23b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0486,
+      "phases": {
+        "preparation": 0.1008,
+        "media_svg": 0.1422,
+        "youtube": 0.0146,
+        "content_assembly": 0.6959,
+        "monetization": 0.0481,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "Norfolk_72ff17_military_skies_drone_9525b0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1166,
+      "phases": {
+        "preparation": 0.1653,
+        "media_svg": 0.139,
+        "youtube": 0.0187,
+        "content_assembly": 0.7008,
+        "monetization": 0.0507,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Norfolk_72ff17_norfolk_1989_contact_264191",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0028,
+      "phases": {
+        "preparation": 0.0969,
+        "media_svg": 0.1006,
+        "youtube": 0.0111,
+        "content_assembly": 0.6901,
+        "monetization": 0.0618,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Norfolk_72ff17_orange_lights_lanter_bd9f0f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0396,
+      "phases": {
+        "preparation": 0.0757,
+        "media_svg": 0.2252,
+        "youtube": 0.0102,
+        "content_assembly": 0.6474,
+        "monetization": 0.0423,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Northamptonshire_ad0dee",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5981,
+      "phases": {
+        "preparation": 0.0823,
+        "media_svg": 0.2215,
+        "youtube": 0.0101,
+        "content_assembly": 0.8802,
+        "monetization": 0.3524,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "Northamptonshire_ad0dee_brackley_towcester_r_f4f42b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.002,
+      "phases": {
+        "preparation": 0.1241,
+        "media_svg": 0.1328,
+        "youtube": 0.0103,
+        "content_assembly": 0.6371,
+        "monetization": 0.0608,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Northamptonshire_ad0dee_ordinary_sky_explana_5c53fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5077,
+      "phases": {
+        "preparation": 0.1406,
+        "media_svg": 0.1658,
+        "youtube": 0.0098,
+        "content_assembly": 0.997,
+        "monetization": 0.1281,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "Northamptonshire_ad0dee_police_modern_report_db7cce",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3993,
+      "phases": {
+        "preparation": 0.1098,
+        "media_svg": 0.1229,
+        "youtube": 0.0113,
+        "content_assembly": 1.0415,
+        "monetization": 0.0693,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Northamptonshire_ad0dee_raf_croughton_patter_2ccab3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1327,
+      "phases": {
+        "preparation": 0.2647,
+        "media_svg": 0.5413,
+        "youtube": 0.0252,
+        "content_assembly": 1.1476,
+        "monetization": 0.0937,
+        "quality_write": 0.0602
+      }
+    },
+    {
+      "base_name": "Northumberland_98885a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4433,
+      "phases": {
+        "preparation": 0.5044,
+        "media_svg": 0.32,
+        "youtube": 0.0185,
+        "content_assembly": 1.472,
+        "monetization": 0.0384,
+        "quality_write": 0.0899
+      }
+    },
+    {
+      "base_name": "Northumberland_98885a_coast_sightings_008688",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2029,
+      "phases": {
+        "preparation": 0.1564,
+        "media_svg": 0.1139,
+        "youtube": 0.0131,
+        "content_assembly": 0.8211,
+        "monetization": 0.0563,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Northumberland_98885a_raf_boulmer_1977_9b113d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1433,
+      "phases": {
+        "preparation": 0.0728,
+        "media_svg": 0.2021,
+        "youtube": 0.0168,
+        "content_assembly": 0.7367,
+        "monetization": 0.0643,
+        "quality_write": 0.0505
+      }
+    },
+    {
+      "base_name": "Northumberland_98885a_folklore_vs_cases_9eedcb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4478,
+      "phases": {
+        "preparation": 0.1009,
+        "media_svg": 0.3078,
+        "youtube": 0.0171,
+        "content_assembly": 0.9144,
+        "monetization": 0.0668,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Northumberland_98885a_dark_sky_explanation_b40003",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2476,
+      "phases": {
+        "preparation": 0.127,
+        "media_svg": 0.2095,
+        "youtube": 0.013,
+        "content_assembly": 0.7982,
+        "monetization": 0.0486,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "Nottinghamshire_a5a895_mod_nottinghamshire_ca7cb4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1602,
+      "phases": {
+        "preparation": 0.1027,
+        "media_svg": 0.2965,
+        "youtube": 0.0099,
+        "content_assembly": 0.6657,
+        "monetization": 0.0469,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "Nottinghamshire_a5a895",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5116,
+      "phases": {
+        "preparation": 0.2224,
+        "media_svg": 0.1527,
+        "youtube": 0.0105,
+        "content_assembly": 1.0304,
+        "monetization": 0.0334,
+        "quality_write": 0.0623
+      }
+    },
+    {
+      "base_name": "Nottinghamshire_a5a895_aviation_explanation_7af14d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1067,
+      "phases": {
+        "preparation": 0.1393,
+        "media_svg": 0.152,
+        "youtube": 0.0118,
+        "content_assembly": 0.7107,
+        "monetization": 0.0502,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Nottinghamshire_a5a895_nottingham_ufo_archi_b968d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2301,
+      "phases": {
+        "preparation": 0.1142,
+        "media_svg": 0.3007,
+        "youtube": 0.0149,
+        "content_assembly": 0.7116,
+        "monetization": 0.0487,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Nottinghamshire_a5a895_retford_town_hall_ph_fde7fd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9546,
+      "phases": {
+        "preparation": 0.0787,
+        "media_svg": 0.1204,
+        "youtube": 0.0111,
+        "content_assembly": 0.6513,
+        "monetization": 0.0556,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "Oxfordshire_491609",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3898,
+      "phases": {
+        "preparation": 0.1778,
+        "media_svg": 0.1357,
+        "youtube": 0.0077,
+        "content_assembly": 0.9592,
+        "monetization": 0.0385,
+        "quality_write": 0.071
+      }
+    },
+    {
+      "base_name": "Oxfordshire_491609_banbury_enstone_film_519bb8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0864,
+      "phases": {
+        "preparation": 0.0944,
+        "media_svg": 0.2242,
+        "youtube": 0.0105,
+        "content_assembly": 0.6598,
+        "monetization": 0.0555,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Oxfordshire_491609_banbury_sighting_wav_55571d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0435,
+      "phases": {
+        "preparation": 0.1181,
+        "media_svg": 0.1383,
+        "youtube": 0.0105,
+        "content_assembly": 0.6886,
+        "monetization": 0.0498,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "Oxfordshire_491609_oxfordshire_aviation_158af6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2146,
+      "phases": {
+        "preparation": 0.1452,
+        "media_svg": 0.2811,
+        "youtube": 0.0099,
+        "content_assembly": 0.6816,
+        "monetization": 0.0528,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Oxfordshire_491609_upper_heyford_fuel_d_17caeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9362,
+      "phases": {
+        "preparation": 0.0508,
+        "media_svg": 0.1496,
+        "youtube": 0.0118,
+        "content_assembly": 0.6375,
+        "monetization": 0.0536,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Rutland_424243",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2932,
+      "phases": {
+        "preparation": 0.087,
+        "media_svg": 0.1647,
+        "youtube": 0.0083,
+        "content_assembly": 0.9469,
+        "monetization": 0.0335,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "Rutland_424243_mod_records_808c98",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9906,
+      "phases": {
+        "preparation": 0.0604,
+        "media_svg": 0.1386,
+        "youtube": 0.0067,
+        "content_assembly": 0.6747,
+        "monetization": 0.0707,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Rutland_424243_military_skies_ba8d68",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.024,
+      "phases": {
+        "preparation": 0.0991,
+        "media_svg": 0.1415,
+        "youtube": 0.0135,
+        "content_assembly": 0.6766,
+        "monetization": 0.0503,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Rutland_424243_exton_bright_light_79c326",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9638,
+      "phases": {
+        "preparation": 0.0656,
+        "media_svg": 0.1211,
+        "youtube": 0.0117,
+        "content_assembly": 0.6664,
+        "monetization": 0.0527,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Rutland_424243_rural_sky_mistakes_df86a8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2174,
+      "phases": {
+        "preparation": 0.1002,
+        "media_svg": 0.2964,
+        "youtube": 0.0133,
+        "content_assembly": 0.7103,
+        "monetization": 0.0509,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Shropshire_83e582",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4702,
+      "phases": {
+        "preparation": 0.144,
+        "media_svg": 0.2385,
+        "youtube": 0.0163,
+        "content_assembly": 0.9768,
+        "monetization": 0.0366,
+        "quality_write": 0.058
+      }
+    },
+    {
+      "base_name": "Shropshire_83e582_cosford_shawbury_tim_a79fc4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0406,
+      "phases": {
+        "preparation": 0.1021,
+        "media_svg": 0.1271,
+        "youtube": 0.0118,
+        "content_assembly": 0.7121,
+        "monetization": 0.0501,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Shropshire_83e582_local_sighting_clust_81ed26",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0525,
+      "phases": {
+        "preparation": 0.0891,
+        "media_svg": 0.1386,
+        "youtube": 0.0116,
+        "content_assembly": 0.7131,
+        "monetization": 0.0622,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Shropshire_83e582_rocket_reentry_expla_a17c0a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0589,
+      "phases": {
+        "preparation": 0.0762,
+        "media_svg": 0.2231,
+        "youtube": 0.0149,
+        "content_assembly": 0.6619,
+        "monetization": 0.0485,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Shropshire_83e582_shawbury_observer_de_49b3a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9945,
+      "phases": {
+        "preparation": 0.0872,
+        "media_svg": 0.111,
+        "youtube": 0.0099,
+        "content_assembly": 0.6788,
+        "monetization": 0.063,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Somerset_24710f_border_sky_sightings_753ca8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2603,
+      "phases": {
+        "preparation": 0.1596,
+        "media_svg": 0.2562,
+        "youtube": 0.0149,
+        "content_assembly": 0.7204,
+        "monetization": 0.0647,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Somerset_24710f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5979,
+      "phases": {
+        "preparation": 0.1569,
+        "media_svg": 0.3253,
+        "youtube": 0.0136,
+        "content_assembly": 0.9935,
+        "monetization": 0.0469,
+        "quality_write": 0.0617
+      }
+    },
+    {
+      "base_name": "Somerset_24710f_mod_somerset_reports_698631",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0432,
+      "phases": {
+        "preparation": 0.0653,
+        "media_svg": 0.1808,
+        "youtube": 0.009,
+        "content_assembly": 0.6818,
+        "monetization": 0.0612,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "Somerset_24710f_orange_light_sightin_d49943",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9985,
+      "phases": {
+        "preparation": 0.0642,
+        "media_svg": 0.1407,
+        "youtube": 0.0126,
+        "content_assembly": 0.6788,
+        "monetization": 0.0652,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Staffordshire_e11f30",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5461,
+      "phases": {
+        "preparation": 0.1622,
+        "media_svg": 0.3313,
+        "youtube": 0.0116,
+        "content_assembly": 0.9507,
+        "monetization": 0.0317,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "Somerset_24710f_yeovilton_aviation_l_14db3d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.833,
+      "phases": {
+        "preparation": 0.0735,
+        "media_svg": 0.2488,
+        "youtube": 0.0116,
+        "content_assembly": 0.6578,
+        "monetization": 0.8041,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "Staffordshire_e11f30_chasetown_1995_fcbd3b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9425,
+      "phases": {
+        "preparation": 0.0656,
+        "media_svg": 0.1507,
+        "youtube": 0.01,
+        "content_assembly": 0.6329,
+        "monetization": 0.0483,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Staffordshire_e11f30_mod_light_clusters_54d113",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9831,
+      "phases": {
+        "preparation": 0.0913,
+        "media_svg": 0.1417,
+        "youtube": 0.0101,
+        "content_assembly": 0.6542,
+        "monetization": 0.0492,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Staffordshire_e11f30_cannock_chase_hotspo_806d9e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0686,
+      "phases": {
+        "preparation": 0.0757,
+        "media_svg": 0.233,
+        "youtube": 0.0084,
+        "content_assembly": 0.6643,
+        "monetization": 0.0517,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "Staffordshire_e11f30_staffordshire_bounda_040372",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.109,
+      "phases": {
+        "preparation": 0.128,
+        "media_svg": 0.1703,
+        "youtube": 0.0104,
+        "content_assembly": 0.6996,
+        "monetization": 0.0588,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Suffolk_831058",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2443,
+      "phases": {
+        "preparation": 0.1354,
+        "media_svg": 0.1468,
+        "youtube": 0.9097,
+        "content_assembly": 0.9503,
+        "monetization": 0.0429,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "Suffolk_831058_suffolk_airbases_c507dd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0479,
+      "phases": {
+        "preparation": 0.1122,
+        "media_svg": 0.1697,
+        "youtube": 1.019,
+        "content_assembly": 0.6527,
+        "monetization": 0.0559,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Suffolk_831058_rendlesham_forest_c1e2c6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0194,
+      "phases": {
+        "preparation": 0.0817,
+        "media_svg": 0.1444,
+        "youtube": 0.0151,
+        "content_assembly": 0.67,
+        "monetization": 0.0605,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Suffolk_831058_official_ufo_records_56a07f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9808,
+      "phases": {
+        "preparation": 0.1034,
+        "media_svg": 0.112,
+        "youtube": 0.0137,
+        "content_assembly": 0.667,
+        "monetization": 0.0437,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Suffolk_831058_lakenheath_bentwater_f1ebd7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9393,
+      "phases": {
+        "preparation": 0.0575,
+        "media_svg": 0.237,
+        "youtube": 0.0126,
+        "content_assembly": 0.6795,
+        "monetization": 0.9173,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Sussex_0f32ec_brighton_coastal_mod_b0579c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1872,
+      "phases": {
+        "preparation": 0.1331,
+        "media_svg": 0.2875,
+        "youtube": 0.0081,
+        "content_assembly": 0.6726,
+        "monetization": 0.0486,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Sussex_0f32ec",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3507,
+      "phases": {
+        "preparation": 0.1596,
+        "media_svg": 0.1341,
+        "youtube": 0.0091,
+        "content_assembly": 0.9704,
+        "monetization": 0.0207,
+        "quality_write": 0.0568
+      }
+    },
+    {
+      "base_name": "Sussex_0f32ec_east_sussex_flying_c_6f5f06",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9404,
+      "phases": {
+        "preparation": 0.0784,
+        "media_svg": 0.1294,
+        "youtube": 0.0082,
+        "content_assembly": 0.6514,
+        "monetization": 0.0389,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Sussex_0f32ec_clapham_wood_folklor_32fde0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1841,
+      "phases": {
+        "preparation": 0.1241,
+        "media_svg": 0.2753,
+        "youtube": 0.0121,
+        "content_assembly": 0.691,
+        "monetization": 0.0417,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "Sussex_0f32ec_tangmere_wartling_ra_649e42",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1012,
+      "phases": {
+        "preparation": 0.0693,
+        "media_svg": 0.3144,
+        "youtube": 0.0107,
+        "content_assembly": 0.6331,
+        "monetization": 0.0364,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "Surrey_aeac76",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3406,
+      "phases": {
+        "preparation": 0.133,
+        "media_svg": 0.1386,
+        "youtube": 0.012,
+        "content_assembly": 0.9679,
+        "monetization": 0.0317,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Surrey_aeac76_police_sightings_313c8e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.002,
+      "phases": {
+        "preparation": 0.0965,
+        "media_svg": 0.1376,
+        "youtube": 0.0078,
+        "content_assembly": 0.6782,
+        "monetization": 0.0444,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Surrey_aeac76_orange_lights_wave_ff14cc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.948,
+      "phases": {
+        "preparation": 0.092,
+        "media_svg": 0.1156,
+        "youtube": 0.0119,
+        "content_assembly": 0.6362,
+        "monetization": 0.054,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Surrey_aeac76_mod_logs_boundaries_269e7e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0025,
+      "phases": {
+        "preparation": 0.1116,
+        "media_svg": 0.1306,
+        "youtube": 0.0154,
+        "content_assembly": 0.6625,
+        "monetization": 0.0441,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Warwickshire_17be07",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2612,
+      "phases": {
+        "preparation": 0.1435,
+        "media_svg": 0.1313,
+        "youtube": 0.0084,
+        "content_assembly": 0.8995,
+        "monetization": 0.0213,
+        "quality_write": 0.0572
+      }
+    },
+    {
+      "base_name": "Warwickshire_17be07_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.963,
+      "phases": {
+        "preparation": 0.0832,
+        "media_svg": 0.1515,
+        "youtube": 0.0123,
+        "content_assembly": 0.6301,
+        "monetization": 0.0499,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Surrey_aeac76_farnborough_guildfor_59df05",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4716,
+      "phases": {
+        "preparation": 0.0472,
+        "media_svg": 0.1874,
+        "youtube": 0.0109,
+        "content_assembly": 0.6052,
+        "monetization": 3.5399,
+        "quality_write": 0.0811
+      }
+    },
+    {
+      "base_name": "Warwickshire_17be07_orange_lights_airpor_e1a252",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0143,
+      "phases": {
+        "preparation": 0.1233,
+        "media_svg": 0.129,
+        "youtube": 0.0092,
+        "content_assembly": 0.6652,
+        "monetization": 0.0478,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Warwickshire_17be07_stratford_crowd_sigh_758d06",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2348,
+      "phases": {
+        "preparation": 0.0855,
+        "media_svg": 0.346,
+        "youtube": 0.0142,
+        "content_assembly": 0.687,
+        "monetization": 0.0374,
+        "quality_write": 0.0647
+      }
+    },
+    {
+      "base_name": "Westmorland_dec0c1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3958,
+      "phases": {
+        "preparation": 0.1218,
+        "media_svg": 0.2589,
+        "youtube": 0.0116,
+        "content_assembly": 0.9156,
+        "monetization": 0.0334,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "Warwickshire_17be07_leamington_black_rin_47ea8f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.039,
+      "phases": {
+        "preparation": 0.0679,
+        "media_svg": 0.2386,
+        "youtube": 0.0114,
+        "content_assembly": 0.62,
+        "monetization": 5.0613,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Westmorland_dec0c1_boundaries_cumbria_c_a9ecca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1441,
+      "phases": {
+        "preparation": 0.0889,
+        "media_svg": 0.3006,
+        "youtube": 0.0102,
+        "content_assembly": 0.6509,
+        "monetization": 0.0539,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "Westmorland_dec0c1_kendal_sizergh_claim_9938e4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0599,
+      "phases": {
+        "preparation": 0.1277,
+        "media_svg": 0.1335,
+        "youtube": 0.0074,
+        "content_assembly": 0.6982,
+        "monetization": 0.05,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Westmorland_dec0c1_lenticular_clouds_mi_1898ee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9428,
+      "phases": {
+        "preparation": 0.0751,
+        "media_svg": 0.132,
+        "youtube": 0.0092,
+        "content_assembly": 0.6434,
+        "monetization": 0.05,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Westmorland_dec0c1_mod_files_missing_ho_e13236",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0275,
+      "phases": {
+        "preparation": 0.0866,
+        "media_svg": 0.1561,
+        "youtube": 0.0178,
+        "content_assembly": 0.6719,
+        "monetization": 0.051,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Wiltshire_7b9f94",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5033,
+      "phases": {
+        "preparation": 0.1647,
+        "media_svg": 0.2176,
+        "youtube": 0.0177,
+        "content_assembly": 1.0056,
+        "monetization": 0.031,
+        "quality_write": 0.0667
+      }
+    },
+    {
+      "base_name": "Wiltshire_7b9f94_rudloe_manor_b066bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2089,
+      "phases": {
+        "preparation": 0.1187,
+        "media_svg": 0.1727,
+        "youtube": 0.0092,
+        "content_assembly": 0.7175,
+        "monetization": 1.111,
+        "quality_write": 0.0797
+      }
+    },
+    {
+      "base_name": "Wiltshire_7b9f94_salisbury_plain_mili_920c52",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0833,
+      "phases": {
+        "preparation": 0.0906,
+        "media_svg": 0.2497,
+        "youtube": 0.0069,
+        "content_assembly": 0.6481,
+        "monetization": 0.0511,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Wiltshire_7b9f94_warminster_thing_7bc4fa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7631,
+      "phases": {
+        "preparation": 0.1314,
+        "media_svg": 0.2442,
+        "youtube": 0.011,
+        "content_assembly": 0.678,
+        "monetization": 1.6559,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Wiltshire_7b9f94_wiltshire_records_ma_5cac52",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3629,
+      "phases": {
+        "preparation": 0.1079,
+        "media_svg": 0.3013,
+        "youtube": 0.0158,
+        "content_assembly": 0.8463,
+        "monetization": 0.0436,
+        "quality_write": 0.0481
+      }
+    },
+    {
+      "base_name": "Worcestershire_9671d5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5029,
+      "phases": {
+        "preparation": 0.1206,
+        "media_svg": 0.1334,
+        "youtube": 0.0145,
+        "content_assembly": 1.1236,
+        "monetization": 0.0488,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "Worcestershire_9671d5_mod_sighting_lists_f9beeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1627,
+      "phases": {
+        "preparation": 0.088,
+        "media_svg": 0.286,
+        "youtube": 0.0116,
+        "content_assembly": 0.6712,
+        "monetization": 0.0605,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Worcestershire_9671d5_redditch_cross_ufo_e18d84",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1566,
+      "phases": {
+        "preparation": 0.0833,
+        "media_svg": 0.2439,
+        "youtube": 0.008,
+        "content_assembly": 0.7308,
+        "monetization": 0.0507,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "Worcestershire_9671d5_orange_lights_worces_7b675b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2261,
+      "phases": {
+        "preparation": 0.0728,
+        "media_svg": 0.2664,
+        "youtube": 0.0121,
+        "content_assembly": 0.6437,
+        "monetization": 0.197,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Worcestershire_9671d5_west_mercia_police_l_7ef290",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0042,
+      "phases": {
+        "preparation": 0.0952,
+        "media_svg": 0.1453,
+        "youtube": 0.0101,
+        "content_assembly": 0.6702,
+        "monetization": 0.0441,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Yorkshire_f09525_ilkley_moor_photo_536b83",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0354,
+      "phases": {
+        "preparation": 0.0879,
+        "media_svg": 0.1414,
+        "youtube": 0.018,
+        "content_assembly": 0.6922,
+        "monetization": 0.0586,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Yorkshire_f09525",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3284,
+      "phases": {
+        "preparation": 0.1503,
+        "media_svg": 0.1222,
+        "youtube": 0.0084,
+        "content_assembly": 0.9614,
+        "monetization": 0.0286,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "Yorkshire_f09525_silpho_moor_saucer_3aac2d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0555,
+      "phases": {
+        "preparation": 0.0741,
+        "media_svg": 0.2293,
+        "youtube": 0.0092,
+        "content_assembly": 0.6538,
+        "monetization": 0.0523,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Yorkshire_f09525_todmorden_ufo_case_e233bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1177,
+      "phases": {
+        "preparation": 0.0927,
+        "media_svg": 0.2481,
+        "youtube": 0.0213,
+        "content_assembly": 0.668,
+        "monetization": 0.0471,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Yorkshire_f09525_yorkshire_ufo_explan_7ee4f9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0533,
+      "phases": {
+        "preparation": 0.1292,
+        "media_svg": 0.1182,
+        "youtube": 0.0275,
+        "content_assembly": 0.7007,
+        "monetization": 0.0403,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Aberdeenshire_e04348_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1045,
+      "phases": {
+        "preparation": 0.1175,
+        "media_svg": 0.1372,
+        "youtube": 0.0184,
+        "content_assembly": 0.7291,
+        "monetization": 0.0584,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Aberdeenshire_e04348",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5126,
+      "phases": {
+        "preparation": 0.1398,
+        "media_svg": 0.148,
+        "youtube": 1.1775,
+        "content_assembly": 0.9559,
+        "monetization": 0.0249,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "Aberdeenshire_e04348_aviation_light_expla_c034a6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9862,
+      "phases": {
+        "preparation": 0.09,
+        "media_svg": 0.1425,
+        "youtube": 0.0131,
+        "content_assembly": 0.6432,
+        "monetization": 0.0499,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "Aberdeenshire_e04348_muchalls_ufo_window_e4e57f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0447,
+      "phases": {
+        "preparation": 0.0996,
+        "media_svg": 0.2652,
+        "youtube": 0.8867,
+        "content_assembly": 0.7007,
+        "monetization": 0.048,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Aberdeenshire_e04348_historic_county_mapp_ffecf8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0473,
+      "phases": {
+        "preparation": 0.0885,
+        "media_svg": 0.189,
+        "youtube": 0.0096,
+        "content_assembly": 0.6769,
+        "monetization": 0.0439,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Angus_34ab6d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4693,
+      "phases": {
+        "preparation": 0.1563,
+        "media_svg": 0.2497,
+        "youtube": 0.0121,
+        "content_assembly": 0.9567,
+        "monetization": 0.0253,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "Angus_34ab6d_mod_logs_angus_5aa2c6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0187,
+      "phases": {
+        "preparation": 0.0973,
+        "media_svg": 0.1463,
+        "youtube": 0.0186,
+        "content_assembly": 0.6698,
+        "monetization": 0.0495,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Angus_34ab6d_arbroath_orange_ligh_422190",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.011,
+      "phases": {
+        "preparation": 0.0911,
+        "media_svg": 0.1161,
+        "youtube": 0.0238,
+        "content_assembly": 0.6798,
+        "monetization": 0.046,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "Angus_34ab6d_dundee_historic_angu_225951",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9743,
+      "phases": {
+        "preparation": 0.0697,
+        "media_svg": 0.1484,
+        "youtube": 0.0102,
+        "content_assembly": 0.6616,
+        "monetization": 0.0498,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Angus_34ab6d_montrose_aviation_sk_724a07",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0432,
+      "phases": {
+        "preparation": 0.1064,
+        "media_svg": 0.1356,
+        "youtube": 0.0127,
+        "content_assembly": 0.6918,
+        "monetization": 0.0518,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Argyllshire_81dd43",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3443,
+      "phases": {
+        "preparation": 0.0661,
+        "media_svg": 0.2788,
+        "youtube": 0.012,
+        "content_assembly": 0.8968,
+        "monetization": 0.0342,
+        "quality_write": 0.0563
+      }
+    },
+    {
+      "base_name": "Argyllshire_81dd43_official_files_c31821",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0731,
+      "phases": {
+        "preparation": 0.104,
+        "media_svg": 0.1367,
+        "youtube": 0.01,
+        "content_assembly": 0.7293,
+        "monetization": 0.0529,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Argyllshire_81dd43_local_newspapers_b1e850",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0578,
+      "phases": {
+        "preparation": 0.1205,
+        "media_svg": 0.1563,
+        "youtube": 0.0082,
+        "content_assembly": 0.682,
+        "monetization": 0.0497,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Argyllshire_81dd43_military_activity_2265dd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2017,
+      "phases": {
+        "preparation": 0.1229,
+        "media_svg": 0.2849,
+        "youtube": 0.0107,
+        "content_assembly": 0.6869,
+        "monetization": 0.0531,
+        "quality_write": 0.0433
+      }
+    },
+    {
+      "base_name": "Argyllshire_81dd43_island_sky_sightings_1a759e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0388,
+      "phases": {
+        "preparation": 0.09,
+        "media_svg": 0.1732,
+        "youtube": 0.0123,
+        "content_assembly": 0.6683,
+        "monetization": 0.0533,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Ayrshire_8acdee",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3558,
+      "phases": {
+        "preparation": 0.1733,
+        "media_svg": 0.1274,
+        "youtube": 0.0208,
+        "content_assembly": 0.9357,
+        "monetization": 0.0349,
+        "quality_write": 0.0638
+      }
+    },
+    {
+      "base_name": "Ayrshire_8acdee_ayrshire_light_misid_eae3fb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2093,
+      "phases": {
+        "preparation": 0.1154,
+        "media_svg": 0.2848,
+        "youtube": 0.0098,
+        "content_assembly": 0.7095,
+        "monetization": 0.048,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Ayrshire_8acdee_mod_lists_ayrshire_p_efdf40",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0131,
+      "phases": {
+        "preparation": 0.09,
+        "media_svg": 0.1476,
+        "youtube": 0.0116,
+        "content_assembly": 0.6562,
+        "monetization": 0.0639,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Ayrshire_8acdee_prestwick_1999_speed_f80dfc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9412,
+      "phases": {
+        "preparation": 0.0728,
+        "media_svg": 0.1113,
+        "youtube": 0.0114,
+        "content_assembly": 0.6662,
+        "monetization": 0.0455,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Ayrshire_8acdee_prestwick_aviation_c_fa3c62",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2174,
+      "phases": {
+        "preparation": 0.1063,
+        "media_svg": 0.3003,
+        "youtube": 0.0138,
+        "content_assembly": 0.7119,
+        "monetization": 0.0433,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Banffshire_c00f44",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3969,
+      "phases": {
+        "preparation": 0.1698,
+        "media_svg": 0.1354,
+        "youtube": 0.0107,
+        "content_assembly": 0.9883,
+        "monetization": 0.026,
+        "quality_write": 0.0667
+      }
+    },
+    {
+      "base_name": "Banffshire_c00f44_raf_banff_boyndie_3bede9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9749,
+      "phases": {
+        "preparation": 0.0893,
+        "media_svg": 0.1304,
+        "youtube": 0.01,
+        "content_assembly": 0.6617,
+        "monetization": 0.0459,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Banffshire_c00f44_banff_2000_reports_347d7d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1678,
+      "phases": {
+        "preparation": 0.0959,
+        "media_svg": 0.2782,
+        "youtube": 0.0105,
+        "content_assembly": 0.6888,
+        "monetization": 0.0453,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "Banffshire_c00f44_allingham_buckie_cla_8c0a08",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9499,
+      "phases": {
+        "preparation": 0.0722,
+        "media_svg": 0.1446,
+        "youtube": 0.0119,
+        "content_assembly": 0.643,
+        "monetization": 0.046,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Banffshire_c00f44_tomintoul_2009_light_55aca4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1156,
+      "phases": {
+        "preparation": 0.0754,
+        "media_svg": 0.2954,
+        "youtube": 0.012,
+        "content_assembly": 0.6484,
+        "monetization": 0.0494,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Berwickshire_907858",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3279,
+      "phases": {
+        "preparation": 0.1225,
+        "media_svg": 0.1665,
+        "youtube": 0.0196,
+        "content_assembly": 0.932,
+        "monetization": 0.027,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Berwickshire_907858_duns_ufo_reports_e9b80f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0307,
+      "phases": {
+        "preparation": 0.0985,
+        "media_svg": 0.1784,
+        "youtube": 0.0105,
+        "content_assembly": 0.6511,
+        "monetization": 0.0563,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Berwickshire_907858_mod_records_archive_716f22",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0207,
+      "phases": {
+        "preparation": 0.0907,
+        "media_svg": 0.1323,
+        "youtube": 0.0121,
+        "content_assembly": 0.6922,
+        "monetization": 0.0567,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Berwickshire_907858_charterhall_airfield_77c8d6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9656,
+      "phases": {
+        "preparation": 0.0804,
+        "media_svg": 0.1258,
+        "youtube": 0.0099,
+        "content_assembly": 0.6656,
+        "monetization": 0.0463,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Berwickshire_907858_ordinary_light_expla_3f6af6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0685,
+      "phases": {
+        "preparation": 0.1112,
+        "media_svg": 0.1177,
+        "youtube": 0.0119,
+        "content_assembly": 0.7255,
+        "monetization": 0.0606,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Buteshire_f23202",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4601,
+      "phases": {
+        "preparation": 0.1582,
+        "media_svg": 0.2261,
+        "youtube": 0.011,
+        "content_assembly": 0.9571,
+        "monetization": 0.0482,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Buteshire_f23202_rothesay_2021_light_bac651",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1102,
+      "phases": {
+        "preparation": 0.0769,
+        "media_svg": 0.276,
+        "youtube": 0.0121,
+        "content_assembly": 0.6398,
+        "monetization": 0.0713,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Buteshire_f23202_arran_1997_mod_sight_805689",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0282,
+      "phases": {
+        "preparation": 0.082,
+        "media_svg": 0.1507,
+        "youtube": 0.0113,
+        "content_assembly": 0.6861,
+        "monetization": 0.0631,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "Buteshire_f23202_historic_county_mapp_ffecf8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0104,
+      "phases": {
+        "preparation": 0.1182,
+        "media_svg": 0.1356,
+        "youtube": 0.0106,
+        "content_assembly": 0.6359,
+        "monetization": 0.0695,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Buteshire_f23202_firth_clyde_misident_838dba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3694,
+      "phases": {
+        "preparation": 0.1129,
+        "media_svg": 0.1581,
+        "youtube": 0.0085,
+        "content_assembly": 0.6842,
+        "monetization": 1.3635,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Caithness_d273a3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3238,
+      "phases": {
+        "preparation": 0.1494,
+        "media_svg": 0.1042,
+        "youtube": 0.0106,
+        "content_assembly": 0.9373,
+        "monetization": 0.0624,
+        "quality_write": 0.0598
+      }
+    },
+    {
+      "base_name": "Caithness_d273a3_wick_aviation_3a5bbb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2037,
+      "phases": {
+        "preparation": 0.1063,
+        "media_svg": 0.3101,
+        "youtube": 0.0094,
+        "content_assembly": 0.6514,
+        "monetization": 0.0697,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "Caithness_d273a3_sky_explanations_cf8447",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1148,
+      "phases": {
+        "preparation": 0.0833,
+        "media_svg": 0.2218,
+        "youtube": 0.0167,
+        "content_assembly": 0.688,
+        "monetization": 0.0684,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Caithness_d273a3_dounreay_airspace_edf8a7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0328,
+      "phases": {
+        "preparation": 0.0635,
+        "media_svg": 0.1334,
+        "youtube": 0.0097,
+        "content_assembly": 0.7129,
+        "monetization": 0.0687,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Caithness_d273a3_wick_bright_lights_1e4626",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1458,
+      "phases": {
+        "preparation": 0.0895,
+        "media_svg": 0.23,
+        "youtube": 0.0154,
+        "content_assembly": 0.68,
+        "monetization": 0.0908,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "Clackmannanshire_a9d2bc",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4503,
+      "phases": {
+        "preparation": 0.1249,
+        "media_svg": 0.1225,
+        "youtube": 0.0094,
+        "content_assembly": 1.0849,
+        "monetization": 0.0484,
+        "quality_write": 0.0602
+      }
+    },
+    {
+      "base_name": "Clackmannanshire_a9d2bc_alva_orange_light_631bd3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0914,
+      "phases": {
+        "preparation": 0.0967,
+        "media_svg": 0.2248,
+        "youtube": 0.0161,
+        "content_assembly": 0.6513,
+        "monetization": 0.0623,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Clackmannanshire_a9d2bc_malcolm_robinson_ceb92c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3644,
+      "phases": {
+        "preparation": 0.1058,
+        "media_svg": 0.3419,
+        "youtube": 0.0152,
+        "content_assembly": 0.7383,
+        "monetization": 1.1284,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Clackmannanshire_a9d2bc_ochil_sky_effects_d86896",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0898,
+      "phases": {
+        "preparation": 0.0849,
+        "media_svg": 0.1721,
+        "youtube": 0.0144,
+        "content_assembly": 0.7193,
+        "monetization": 0.062,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Cromartyshire_1a46f2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.458,
+      "phases": {
+        "preparation": 0.1124,
+        "media_svg": 0.2568,
+        "youtube": 0.0158,
+        "content_assembly": 0.9727,
+        "monetization": 0.0451,
+        "quality_write": 0.0552
+      }
+    },
+    {
+      "base_name": "Clackmannanshire_a9d2bc_bonnybridge_influenc_3aa047",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6983,
+      "phases": {
+        "preparation": 0.0859,
+        "media_svg": 0.1736,
+        "youtube": 0.0143,
+        "content_assembly": 0.6726,
+        "monetization": 1.7173,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Cromartyshire_1a46f2_ardross_mod_records_4eb6a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0084,
+      "phases": {
+        "preparation": 0.0878,
+        "media_svg": 0.1247,
+        "youtube": 0.0134,
+        "content_assembly": 0.6793,
+        "monetization": 0.0621,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "Cromartyshire_1a46f2_boundary_archive_con_9eb1e4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2781,
+      "phases": {
+        "preparation": 0.1124,
+        "media_svg": 0.3227,
+        "youtube": 0.0082,
+        "content_assembly": 0.7491,
+        "monetization": 0.0487,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Cromartyshire_1a46f2_cromarty_firth_light_c9ea50",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0218,
+      "phases": {
+        "preparation": 0.0753,
+        "media_svg": 0.1705,
+        "youtube": 0.0093,
+        "content_assembly": 0.6821,
+        "monetization": 0.0486,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Cromartyshire_1a46f2_ullapool_saucer_clou_1d05d2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.048,
+      "phases": {
+        "preparation": 0.08,
+        "media_svg": 0.1871,
+        "youtube": 0.0104,
+        "content_assembly": 0.6685,
+        "monetization": 0.0612,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Dumfriesshire_3b4eaf",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3303,
+      "phases": {
+        "preparation": 0.1321,
+        "media_svg": 0.1257,
+        "youtube": 0.0148,
+        "content_assembly": 0.9606,
+        "monetization": 0.0346,
+        "quality_write": 0.0626
+      }
+    },
+    {
+      "base_name": "Dumfriesshire_3b4eaf_dumfries_1997_mod_si_219789",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0182,
+      "phases": {
+        "preparation": 0.1004,
+        "media_svg": 0.1354,
+        "youtube": 0.0162,
+        "content_assembly": 0.6635,
+        "monetization": 0.0689,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Dumfriesshire_3b4eaf_dumfriesshire_myster_4b26d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.104,
+      "phases": {
+        "preparation": 0.0817,
+        "media_svg": 0.2515,
+        "youtube": 0.0104,
+        "content_assembly": 0.6754,
+        "monetization": 0.0423,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Dumfriesshire_3b4eaf_eastriggs_military_u_d6e035",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9828,
+      "phases": {
+        "preparation": 0.0868,
+        "media_svg": 0.1122,
+        "youtube": 0.0098,
+        "content_assembly": 0.6827,
+        "monetization": 0.047,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "Dunbartonshire_abd4f2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3416,
+      "phases": {
+        "preparation": 0.1354,
+        "media_svg": 0.1538,
+        "youtube": 0.0083,
+        "content_assembly": 0.9559,
+        "monetization": 0.0314,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "Dumfriesshire_3b4eaf_solway_border_ufo_bo_14d007",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1806,
+      "phases": {
+        "preparation": 0.0967,
+        "media_svg": 0.279,
+        "youtube": 1.0547,
+        "content_assembly": 0.6579,
+        "monetization": 0.0524,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "Dunbartonshire_abd4f2_faslane_lights_48ce74",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.15,
+      "phases": {
+        "preparation": 0.1344,
+        "media_svg": 0.2288,
+        "youtube": 0.0154,
+        "content_assembly": 0.6784,
+        "monetization": 0.0429,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "Dunbartonshire_abd4f2_clyde_misidentificat_c82953",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2652,
+      "phases": {
+        "preparation": 0.1445,
+        "media_svg": 0.2868,
+        "youtube": 0.0145,
+        "content_assembly": 0.7206,
+        "monetization": 0.0527,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "Dunbartonshire_abd4f2_dumbarton_triangle_r_cdfe78",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0985,
+      "phases": {
+        "preparation": 0.1037,
+        "media_svg": 0.2193,
+        "youtube": 0.0163,
+        "content_assembly": 0.6625,
+        "monetization": 0.0574,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Dunbartonshire_abd4f2_historic_county_boun_ef3e3f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3882,
+      "phases": {
+        "preparation": 0.1266,
+        "media_svg": 0.4454,
+        "youtube": 0.0108,
+        "content_assembly": 0.7147,
+        "monetization": 0.0476,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "East_Lothian_a7dd3d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3661,
+      "phases": {
+        "preparation": 0.1057,
+        "media_svg": 0.2048,
+        "youtube": 0.013,
+        "content_assembly": 0.9279,
+        "monetization": 0.0543,
+        "quality_write": 0.0603
+      }
+    },
+    {
+      "base_name": "East_Lothian_a7dd3d_mod_sightings_3d360b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9883,
+      "phases": {
+        "preparation": 0.0857,
+        "media_svg": 0.1293,
+        "youtube": 0.0139,
+        "content_assembly": 0.6742,
+        "monetization": 0.0493,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "East_Lothian_a7dd3d_coloured_lights_1999_18e9b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9663,
+      "phases": {
+        "preparation": 0.0625,
+        "media_svg": 0.1453,
+        "youtube": 0.0138,
+        "content_assembly": 0.6619,
+        "monetization": 0.0473,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "East_Lothian_a7dd3d_east_fortune_airfiel_f9abbb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0608,
+      "phases": {
+        "preparation": 0.0844,
+        "media_svg": 0.1183,
+        "youtube": 0.016,
+        "content_assembly": 0.7426,
+        "monetization": 0.0487,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "East_Lothian_a7dd3d_false_positives_f6ef28",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4673,
+      "phases": {
+        "preparation": 0.0953,
+        "media_svg": 0.1378,
+        "youtube": 2.3406,
+        "content_assembly": 0.7964,
+        "monetization": 0.0565,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Fife_ef689b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.375,
+      "phases": {
+        "preparation": 0.1319,
+        "media_svg": 0.1358,
+        "youtube": 0.0224,
+        "content_assembly": 0.9921,
+        "monetization": 0.0328,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "Fife_ef689b_mod_fife_logs_5776ff",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9968,
+      "phases": {
+        "preparation": 0.1003,
+        "media_svg": 0.1346,
+        "youtube": 0.0119,
+        "content_assembly": 0.6621,
+        "monetization": 0.0492,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Fife_ef689b_falkland_hill_1996_226890",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0174,
+      "phases": {
+        "preparation": 0.1004,
+        "media_svg": 0.1208,
+        "youtube": 0.009,
+        "content_assembly": 0.6791,
+        "monetization": 0.0655,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Fife_ef689b_leuchars_air_defence_111513",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0285,
+      "phases": {
+        "preparation": 0.0838,
+        "media_svg": 0.1206,
+        "youtube": 0.0115,
+        "content_assembly": 0.6867,
+        "monetization": 0.0809,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Fife_ef689b_local_press_sighting_26d2c1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0932,
+      "phases": {
+        "preparation": 0.0708,
+        "media_svg": 0.1961,
+        "youtube": 0.0104,
+        "content_assembly": 0.7119,
+        "monetization": 0.0689,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Inverness-shire_f61896",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2859,
+      "phases": {
+        "preparation": 0.1266,
+        "media_svg": 0.1444,
+        "youtube": 0.0147,
+        "content_assembly": 0.9045,
+        "monetization": 0.0375,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "Inverness-shire_f61896_mod_ufo_records_b5fe35",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9436,
+      "phases": {
+        "preparation": 0.0809,
+        "media_svg": 0.1163,
+        "youtube": 0.0102,
+        "content_assembly": 0.6531,
+        "monetization": 0.0483,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Inverness-shire_f61896_aviemore_1998_lights_a5c372",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9834,
+      "phases": {
+        "preparation": 0.0724,
+        "media_svg": 0.1498,
+        "youtube": 0.0134,
+        "content_assembly": 0.6556,
+        "monetization": 0.0541,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Inverness-shire_f61896_highland_sky_explana_bdf744",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0428,
+      "phases": {
+        "preparation": 0.0923,
+        "media_svg": 0.1358,
+        "youtube": 0.0118,
+        "content_assembly": 0.7068,
+        "monetization": 0.0489,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Inverness-shire_f61896_inverness_orange_lig_4993d9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0056,
+      "phases": {
+        "preparation": 0.0851,
+        "media_svg": 0.1216,
+        "youtube": 0.0077,
+        "content_assembly": 0.6807,
+        "monetization": 0.0676,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Kincardineshire_6f0ed9",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3917,
+      "phases": {
+        "preparation": 0.1463,
+        "media_svg": 0.1203,
+        "youtube": 0.0172,
+        "content_assembly": 0.9984,
+        "monetization": 0.0513,
+        "quality_write": 0.0584
+      }
+    },
+    {
+      "base_name": "Kincardineshire_6f0ed9_brief_mod_cases_b94185",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0674,
+      "phases": {
+        "preparation": 0.0986,
+        "media_svg": 0.1395,
+        "youtube": 0.019,
+        "content_assembly": 0.6849,
+        "monetization": 0.074,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "Kincardineshire_6f0ed9_stonehaven_triangle_e3c42f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0892,
+      "phases": {
+        "preparation": 0.1011,
+        "media_svg": 0.1227,
+        "youtube": 0.0078,
+        "content_assembly": 0.7365,
+        "monetization": 0.0826,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Kincardineshire_6f0ed9_aviation_coast_expla_70c4d7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1382,
+      "phases": {
+        "preparation": 0.1451,
+        "media_svg": 0.1078,
+        "youtube": 0.0126,
+        "content_assembly": 0.7396,
+        "monetization": 0.0891,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Kincardineshire_6f0ed9_county_boundary_reco_994c10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0295,
+      "phases": {
+        "preparation": 0.0857,
+        "media_svg": 0.1584,
+        "youtube": 0.0091,
+        "content_assembly": 0.6768,
+        "monetization": 0.0642,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "Kinross-shire_c6236f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2969,
+      "phases": {
+        "preparation": 0.1326,
+        "media_svg": 0.1028,
+        "youtube": 0.0085,
+        "content_assembly": 0.9417,
+        "monetization": 0.0544,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "Kinross-shire_c6236f_milnathort_2009_orb_b0ec4d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0108,
+      "phases": {
+        "preparation": 0.0847,
+        "media_svg": 0.132,
+        "youtube": 0.0205,
+        "content_assembly": 0.6676,
+        "monetization": 0.0699,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Kinross-shire_c6236f_calvine_regional_sha_277ced",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0933,
+      "phases": {
+        "preparation": 0.0918,
+        "media_svg": 0.1951,
+        "youtube": 0.0116,
+        "content_assembly": 0.6664,
+        "monetization": 0.0882,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Kinross-shire_c6236f_county_boundary_conf_1d7566",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1142,
+      "phases": {
+        "preparation": 0.0982,
+        "media_svg": 0.14,
+        "youtube": 0.0134,
+        "content_assembly": 0.7493,
+        "monetization": 0.0724,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "Kirkcudbrightshire_97fbf2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4516,
+      "phases": {
+        "preparation": 0.1664,
+        "media_svg": 0.145,
+        "youtube": 0.0178,
+        "content_assembly": 1.0153,
+        "monetization": 0.0512,
+        "quality_write": 0.0559
+      }
+    },
+    {
+      "base_name": "Kinross-shire_c6236f_loch_leven_explanati_d3d750",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.877,
+      "phases": {
+        "preparation": 0.0723,
+        "media_svg": 0.1354,
+        "youtube": 0.0165,
+        "content_assembly": 0.681,
+        "monetization": 0.9343,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Kirkcudbrightshire_97fbf2_dark_sky_misidentifi_1fe7f6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0488,
+      "phases": {
+        "preparation": 0.086,
+        "media_svg": 0.1302,
+        "youtube": 0.0158,
+        "content_assembly": 0.6865,
+        "monetization": 0.0842,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "Kirkcudbrightshire_97fbf2_official_records_gap_43c6bb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1191,
+      "phases": {
+        "preparation": 0.1326,
+        "media_svg": 0.158,
+        "youtube": 0.0139,
+        "content_assembly": 0.6887,
+        "monetization": 0.0782,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Kirkcudbrightshire_97fbf2_solway_coast_reports_476533",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4386,
+      "phases": {
+        "preparation": 0.1278,
+        "media_svg": 0.2444,
+        "youtube": 0.0142,
+        "content_assembly": 0.8877,
+        "monetization": 0.122,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Kirkcudbrightshire_97fbf2_training_area_contex_92b97d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2071,
+      "phases": {
+        "preparation": 0.0936,
+        "media_svg": 0.1386,
+        "youtube": 0.0084,
+        "content_assembly": 0.8562,
+        "monetization": 0.0717,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Lanarkshire_60db75_hamilton_police_mod_2c7c5a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0181,
+      "phases": {
+        "preparation": 0.0867,
+        "media_svg": 0.1293,
+        "youtube": 0.0105,
+        "content_assembly": 0.691,
+        "monetization": 0.0662,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Lanarkshire_60db75",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3859,
+      "phases": {
+        "preparation": 0.1446,
+        "media_svg": 0.14,
+        "youtube": 0.0114,
+        "content_assembly": 0.984,
+        "monetization": 0.048,
+        "quality_write": 0.0579
+      }
+    },
+    {
+      "base_name": "Lanarkshire_60db75_bonnybridge_spillove_abaf49",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.055,
+      "phases": {
+        "preparation": 0.0985,
+        "media_svg": 0.1321,
+        "youtube": 0.0106,
+        "content_assembly": 0.6994,
+        "monetization": 0.0723,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Lanarkshire_60db75_modern_sighting_clus_86fa3f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0742,
+      "phases": {
+        "preparation": 0.1109,
+        "media_svg": 0.1294,
+        "youtube": 0.0094,
+        "content_assembly": 0.7137,
+        "monetization": 0.0514,
+        "quality_write": 0.0594
+      }
+    },
+    {
+      "base_name": "Midlothian_ff4e39",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2848,
+      "phases": {
+        "preparation": 0.1018,
+        "media_svg": 0.1661,
+        "youtube": 0.0111,
+        "content_assembly": 0.9041,
+        "monetization": 0.0467,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "Lanarkshire_60db75_ordinary_explanation_a805d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9716,
+      "phases": {
+        "preparation": 0.0879,
+        "media_svg": 0.1113,
+        "youtube": 0.0082,
+        "content_assembly": 0.6991,
+        "monetization": 1.0282,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Midlothian_ff4e39_mod_ufo_files_ec837b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9924,
+      "phases": {
+        "preparation": 0.0727,
+        "media_svg": 0.1517,
+        "youtube": 0.011,
+        "content_assembly": 0.6669,
+        "monetization": 0.0534,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Midlothian_ff4e39_historic_midlothian_aebfd1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9798,
+      "phases": {
+        "preparation": 0.0867,
+        "media_svg": 0.1377,
+        "youtube": 0.0082,
+        "content_assembly": 0.6464,
+        "monetization": 0.0639,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Midlothian_ff4e39_bonnyrigg_lights_9f127c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9339,
+      "phases": {
+        "preparation": 0.0918,
+        "media_svg": 0.127,
+        "youtube": 0.0121,
+        "content_assembly": 0.6656,
+        "monetization": 1.0016,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Midlothian_ff4e39_pentland_hills_sight_2277b9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0161,
+      "phases": {
+        "preparation": 0.0895,
+        "media_svg": 0.1241,
+        "youtube": 0.012,
+        "content_assembly": 0.6886,
+        "monetization": 0.0637,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Morayshire_6abd28",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4871,
+      "phases": {
+        "preparation": 0.1811,
+        "media_svg": 0.1221,
+        "youtube": 0.0116,
+        "content_assembly": 1.0562,
+        "monetization": 0.0518,
+        "quality_write": 0.0643
+      }
+    },
+    {
+      "base_name": "Morayshire_6abd28_new_elgin_entity_4f4e11",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0488,
+      "phases": {
+        "preparation": 0.1121,
+        "media_svg": 0.1689,
+        "youtube": 0.0089,
+        "content_assembly": 0.6683,
+        "monetization": 0.0527,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Morayshire_6abd28_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0169,
+      "phases": {
+        "preparation": 0.1039,
+        "media_svg": 0.14,
+        "youtube": 0.0129,
+        "content_assembly": 0.6755,
+        "monetization": 0.0479,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "Morayshire_6abd28_lossiemouth_martian_f31ee8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5762,
+      "phases": {
+        "preparation": 0.0721,
+        "media_svg": 0.1467,
+        "youtube": 0.0127,
+        "content_assembly": 0.6296,
+        "monetization": 0.6806,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Morayshire_6abd28_raf_lossiemouth_skie_6f836e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9648,
+      "phases": {
+        "preparation": 0.0792,
+        "media_svg": 0.1285,
+        "youtube": 0.0225,
+        "content_assembly": 0.6359,
+        "monetization": 0.0542,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "Nairnshire_82a7a8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3061,
+      "phases": {
+        "preparation": 0.1197,
+        "media_svg": 0.115,
+        "youtube": 0.0113,
+        "content_assembly": 0.9729,
+        "monetization": 0.0315,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "Nairnshire_82a7a8_mod_records_nairn_b58a7a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0838,
+      "phases": {
+        "preparation": 0.1277,
+        "media_svg": 0.1545,
+        "youtube": 0.0123,
+        "content_assembly": 0.7282,
+        "monetization": 1.0012,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "Nairnshire_82a7a8_nairn_orange_light_f7e9b4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9954,
+      "phases": {
+        "preparation": 0.0906,
+        "media_svg": 0.1232,
+        "youtube": 0.0107,
+        "content_assembly": 0.6645,
+        "monetization": 0.0667,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "Nairnshire_82a7a8_lantern_explanation_8963ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9787,
+      "phases": {
+        "preparation": 0.0673,
+        "media_svg": 0.1397,
+        "youtube": 0.0072,
+        "content_assembly": 0.6514,
+        "monetization": 0.0792,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Nairnshire_82a7a8_moray_firth_aviation_8497e0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0779,
+      "phases": {
+        "preparation": 0.1202,
+        "media_svg": 0.1099,
+        "youtube": 0.0103,
+        "content_assembly": 0.6883,
+        "monetization": 0.1022,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "Orkney_9ae683",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4123,
+      "phases": {
+        "preparation": 0.1364,
+        "media_svg": 0.1275,
+        "youtube": 0.011,
+        "content_assembly": 1.028,
+        "monetization": 0.0499,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Orkney_9ae683_orkney_ufo_records_6dc226",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1973,
+      "phases": {
+        "preparation": 0.1537,
+        "media_svg": 0.1412,
+        "youtube": 0.0229,
+        "content_assembly": 0.7642,
+        "monetization": 0.0724,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Orkney_9ae683_scapa_flow_military_53e3c2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1061,
+      "phases": {
+        "preparation": 0.1156,
+        "media_svg": 0.1788,
+        "youtube": 0.0166,
+        "content_assembly": 0.6907,
+        "monetization": 0.0628,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Orkney_9ae683_kirkwall_1985_tailed_363c24",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0499,
+      "phases": {
+        "preparation": 0.112,
+        "media_svg": 0.1252,
+        "youtube": 0.0096,
+        "content_assembly": 0.7027,
+        "monetization": 0.0623,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "Orkney_9ae683_orkney_sky_misidenti_3217fd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0957,
+      "phases": {
+        "preparation": 0.124,
+        "media_svg": 0.1315,
+        "youtube": 0.0115,
+        "content_assembly": 0.7163,
+        "monetization": 0.0744,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Peeblesshire_4beb86",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5499,
+      "phases": {
+        "preparation": 0.2082,
+        "media_svg": 0.1342,
+        "youtube": 0.0205,
+        "content_assembly": 1.0581,
+        "monetization": 0.0607,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "Peeblesshire_4beb86_not_ufo_hotspot_804553",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0673,
+      "phases": {
+        "preparation": 0.0966,
+        "media_svg": 0.1383,
+        "youtube": 0.0148,
+        "content_assembly": 0.7085,
+        "monetization": 0.0698,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Peeblesshire_4beb86_historic_boundaries_e7e3d7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0401,
+      "phases": {
+        "preparation": 0.1034,
+        "media_svg": 0.1515,
+        "youtube": 0.0098,
+        "content_assembly": 0.6687,
+        "monetization": 0.0693,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "Peeblesshire_4beb86_ordinary_sky_explana_5c53fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0976,
+      "phases": {
+        "preparation": 0.1159,
+        "media_svg": 0.1261,
+        "youtube": 0.0108,
+        "content_assembly": 0.728,
+        "monetization": 0.0757,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Peeblesshire_4beb86_peebles_2005_sightin_71cb1b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9844,
+      "phases": {
+        "preparation": 0.0625,
+        "media_svg": 0.13,
+        "youtube": 0.0158,
+        "content_assembly": 0.678,
+        "monetization": 0.0652,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Perthshire_258bcb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3354,
+      "phases": {
+        "preparation": 0.1277,
+        "media_svg": 0.1192,
+        "youtube": 0.0163,
+        "content_assembly": 0.9545,
+        "monetization": 0.058,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Perthshire_258bcb_aircraft_terrain_exp_677226",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0553,
+      "phases": {
+        "preparation": 0.1202,
+        "media_svg": 0.1299,
+        "youtube": 0.0127,
+        "content_assembly": 0.7009,
+        "monetization": 0.048,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Perthshire_258bcb_calvine_photo_eviden_0ef405",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0284,
+      "phases": {
+        "preparation": 0.0769,
+        "media_svg": 0.1722,
+        "youtube": 0.0199,
+        "content_assembly": 0.6649,
+        "monetization": 0.0518,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Perthshire_258bcb_mod_records_perthshi_c8d2aa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0391,
+      "phases": {
+        "preparation": 0.1042,
+        "media_svg": 0.132,
+        "youtube": 0.0109,
+        "content_assembly": 0.6906,
+        "monetization": 0.0552,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Perthshire_258bcb_orange_light_cluster_8a881c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4344,
+      "phases": {
+        "preparation": 0.1124,
+        "media_svg": 0.1283,
+        "youtube": 0.0132,
+        "content_assembly": 0.6819,
+        "monetization": 0.4616,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Renfrewshire_6a148e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3917,
+      "phases": {
+        "preparation": 0.1612,
+        "media_svg": 0.153,
+        "youtube": 0.0086,
+        "content_assembly": 0.9611,
+        "monetization": 0.0508,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "Renfrewshire_6a148e_historic_renfrewshir_231f24",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0798,
+      "phases": {
+        "preparation": 0.1188,
+        "media_svg": 0.1475,
+        "youtube": 0.0131,
+        "content_assembly": 0.6765,
+        "monetization": 0.0805,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Renfrewshire_6a148e_glasgow_airport_skie_80981a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1453,
+      "phases": {
+        "preparation": 0.1717,
+        "media_svg": 0.1524,
+        "youtube": 0.012,
+        "content_assembly": 0.6882,
+        "monetization": 0.077,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "Renfrewshire_6a148e_mod_greenock_paisley_7de9ed",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1074,
+      "phases": {
+        "preparation": 0.1076,
+        "media_svg": 0.1204,
+        "youtube": 0.0087,
+        "content_assembly": 0.771,
+        "monetization": 0.0477,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "Renfrewshire_6a148e_renfrew_shape_shifti_a7a25a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.151,
+      "phases": {
+        "preparation": 0.1081,
+        "media_svg": 0.1586,
+        "youtube": 0.0111,
+        "content_assembly": 0.7524,
+        "monetization": 0.0781,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Ross-shire_c9caea_mod_case_comparison_949c17",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1606,
+      "phases": {
+        "preparation": 0.1595,
+        "media_svg": 0.1329,
+        "youtube": 0.0119,
+        "content_assembly": 0.742,
+        "monetization": 0.0715,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "Ross-shire_c9caea",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.396,
+      "phases": {
+        "preparation": 0.1297,
+        "media_svg": 0.1592,
+        "youtube": 0.0137,
+        "content_assembly": 0.9854,
+        "monetization": 0.0491,
+        "quality_write": 0.0588
+      }
+    },
+    {
+      "base_name": "Ross-shire_c9caea_highland_sky_misiden_695439",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0195,
+      "phases": {
+        "preparation": 0.098,
+        "media_svg": 0.1263,
+        "youtube": 0.0169,
+        "content_assembly": 0.6598,
+        "monetization": 0.0723,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Ross-shire_c9caea_ross_shire_boundarie_cab8a6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0613,
+      "phases": {
+        "preparation": 0.1151,
+        "media_svg": 0.1405,
+        "youtube": 0.011,
+        "content_assembly": 0.6886,
+        "monetization": 0.0669,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "Ross-shire_c9caea_tain_air_weapons_ran_1c4ea0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0509,
+      "phases": {
+        "preparation": 0.088,
+        "media_svg": 0.1566,
+        "youtube": 0.0091,
+        "content_assembly": 0.6488,
+        "monetization": 0.1047,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Roxburghshire_8333b2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.319,
+      "phases": {
+        "preparation": 0.1052,
+        "media_svg": 0.143,
+        "youtube": 0.0086,
+        "content_assembly": 0.9551,
+        "monetization": 0.0468,
+        "quality_write": 0.0603
+      }
+    },
+    {
+      "base_name": "Roxburghshire_8333b2_historic_county_ufo_483db7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1342,
+      "phases": {
+        "preparation": 0.1502,
+        "media_svg": 0.1497,
+        "youtube": 0.0118,
+        "content_assembly": 0.697,
+        "monetization": 0.0872,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Roxburghshire_8333b2_kelso_1997_sighting_d507b4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0579,
+      "phases": {
+        "preparation": 0.0839,
+        "media_svg": 0.1517,
+        "youtube": 0.0152,
+        "content_assembly": 0.7009,
+        "monetization": 0.0693,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Roxburghshire_8333b2_border_low_flying_ai_2f6320",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0474,
+      "phases": {
+        "preparation": 0.1222,
+        "media_svg": 0.1095,
+        "youtube": 0.0125,
+        "content_assembly": 0.6951,
+        "monetization": 0.0705,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Roxburghshire_8333b2_mod_records_roxburgh_fc39ac",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0873,
+      "phases": {
+        "preparation": 0.0908,
+        "media_svg": 0.1628,
+        "youtube": 0.01,
+        "content_assembly": 0.707,
+        "monetization": 0.0806,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Selkirkshire_8fd2aa_mod_archive_trail_c18251",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1743,
+      "phases": {
+        "preparation": 0.1485,
+        "media_svg": 0.213,
+        "youtube": 0.018,
+        "content_assembly": 0.7075,
+        "monetization": 0.0488,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Selkirkshire_8fd2aa",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5318,
+      "phases": {
+        "preparation": 0.1083,
+        "media_svg": 0.1966,
+        "youtube": 1.2064,
+        "content_assembly": 0.9192,
+        "monetization": 0.0452,
+        "quality_write": 0.0562
+      }
+    },
+    {
+      "base_name": "Selkirkshire_8fd2aa_not_a_ufo_hotspot_c6697b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0126,
+      "phases": {
+        "preparation": 0.0805,
+        "media_svg": 0.1417,
+        "youtube": 0.0143,
+        "content_assembly": 0.6741,
+        "monetization": 0.0636,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "Selkirkshire_8fd2aa_1997_selkirk_sightin_6082a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9412,
+      "phases": {
+        "preparation": 0.0654,
+        "media_svg": 0.1272,
+        "youtube": 0.0145,
+        "content_assembly": 0.6427,
+        "monetization": 0.0555,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Selkirkshire_8fd2aa_daylight_flicker_exp_1683e3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0031,
+      "phases": {
+        "preparation": 0.0939,
+        "media_svg": 0.1242,
+        "youtube": 0.0158,
+        "content_assembly": 0.6785,
+        "monetization": 0.0532,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Shetland_ce055c_saxa_vord_radar_29cb23",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.005,
+      "phases": {
+        "preparation": 0.0932,
+        "media_svg": 0.111,
+        "youtube": 0.0096,
+        "content_assembly": 0.679,
+        "monetization": 0.0754,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Shetland_ce055c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3747,
+      "phases": {
+        "preparation": 0.1473,
+        "media_svg": 0.1167,
+        "youtube": 0.0161,
+        "content_assembly": 0.9855,
+        "monetization": 0.0526,
+        "quality_write": 0.0566
+      }
+    },
+    {
+      "base_name": "Shetland_ce055c_lerwick_mod_records_a3a5e2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0559,
+      "phases": {
+        "preparation": 0.0868,
+        "media_svg": 0.1326,
+        "youtube": 0.0066,
+        "content_assembly": 0.7325,
+        "monetization": 0.0629,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Shetland_ce055c_1992_fast_object_76ee9a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0028,
+      "phases": {
+        "preparation": 0.1189,
+        "media_svg": 0.1315,
+        "youtube": 0.9624,
+        "content_assembly": 0.6849,
+        "monetization": 0.0652,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Shetland_ce055c_northern_sky_explana_5ca616",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.085,
+      "phases": {
+        "preparation": 0.1154,
+        "media_svg": 0.1519,
+        "youtube": 0.0143,
+        "content_assembly": 0.6955,
+        "monetization": 0.0653,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Stirlingshire_47078a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3855,
+      "phases": {
+        "preparation": 0.1494,
+        "media_svg": 0.1217,
+        "youtube": 0.0136,
+        "content_assembly": 0.9926,
+        "monetization": 0.0463,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "Stirlingshire_47078a_bonnybridge_hotspot_be0c10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0425,
+      "phases": {
+        "preparation": 0.1028,
+        "media_svg": 0.1207,
+        "youtube": 0.0091,
+        "content_assembly": 0.6968,
+        "monetization": 0.0739,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "Stirlingshire_47078a_falkirk_triangle_fla_42fa64",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1329,
+      "phases": {
+        "preparation": 0.0925,
+        "media_svg": 0.1551,
+        "youtube": 0.0163,
+        "content_assembly": 0.7649,
+        "monetization": 0.0645,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "Stirlingshire_47078a_central_belt_aviatio_9cf589",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2257,
+      "phases": {
+        "preparation": 0.133,
+        "media_svg": 0.1511,
+        "youtube": 0.0255,
+        "content_assembly": 0.8105,
+        "monetization": 0.0628,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "Stirlingshire_47078a_mod_bonnybridge_reco_da9cbe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9675,
+      "phases": {
+        "preparation": 0.0682,
+        "media_svg": 0.1358,
+        "youtube": 0.0108,
+        "content_assembly": 0.6294,
+        "monetization": 0.0791,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Sutherland_6dbe51_cape_wrath_range_c3184a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9566,
+      "phases": {
+        "preparation": 0.0861,
+        "media_svg": 0.1354,
+        "youtube": 0.0089,
+        "content_assembly": 0.6241,
+        "monetization": 0.0647,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Sutherland_6dbe51",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1442,
+      "phases": {
+        "preparation": 0.1391,
+        "media_svg": 0.1492,
+        "youtube": 0.0186,
+        "content_assembly": 0.9797,
+        "monetization": 0.7991,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "Sutherland_6dbe51_a839_lairg_report_a81d70",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9809,
+      "phases": {
+        "preparation": 0.0711,
+        "media_svg": 0.149,
+        "youtube": 0.011,
+        "content_assembly": 0.6506,
+        "monetization": 0.0658,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Sutherland_6dbe51_sutherland_spaceport_87735e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0215,
+      "phases": {
+        "preparation": 0.099,
+        "media_svg": 0.1263,
+        "youtube": 0.0088,
+        "content_assembly": 0.662,
+        "monetization": 0.0871,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Sutherland_6dbe51_lochinver_fireballs_132391",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8749,
+      "phases": {
+        "preparation": 0.0712,
+        "media_svg": 0.1347,
+        "youtube": 0.0112,
+        "content_assembly": 0.6602,
+        "monetization": 1.9597,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "West_Lothian_1c9504",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2812,
+      "phases": {
+        "preparation": 0.1194,
+        "media_svg": 0.1489,
+        "youtube": 0.0095,
+        "content_assembly": 0.8993,
+        "monetization": 0.0485,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "West_Lothian_1c9504_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9761,
+      "phases": {
+        "preparation": 0.0734,
+        "media_svg": 0.1487,
+        "youtube": 0.0154,
+        "content_assembly": 0.6465,
+        "monetization": 0.0583,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "West_Lothian_1c9504_dechmont_law_taylor_34a329",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9102,
+      "phases": {
+        "preparation": 0.0611,
+        "media_svg": 0.1268,
+        "youtube": 0.0147,
+        "content_assembly": 0.6196,
+        "monetization": 0.0502,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "West_Lothian_1c9504_livingston_sceptical_c4d78b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0072,
+      "phases": {
+        "preparation": 0.0799,
+        "media_svg": 0.1388,
+        "youtube": 0.0092,
+        "content_assembly": 0.6953,
+        "monetization": 0.0468,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "West_Lothian_1c9504_places_boundaries_uf_8e0db5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0859,
+      "phases": {
+        "preparation": 0.1253,
+        "media_svg": 0.134,
+        "youtube": 0.0188,
+        "content_assembly": 0.7102,
+        "monetization": 0.0584,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "Wigtownshire_1186ed",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2672,
+      "phases": {
+        "preparation": 0.0919,
+        "media_svg": 0.1385,
+        "youtube": 0.0083,
+        "content_assembly": 0.9393,
+        "monetization": 0.037,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "Wigtownshire_1186ed_hotspot_comparison_b8d555",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0176,
+      "phases": {
+        "preparation": 0.0858,
+        "media_svg": 0.1491,
+        "youtube": 0.0199,
+        "content_assembly": 0.672,
+        "monetization": 0.0529,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Wigtownshire_1186ed_official_file_trail_71d329",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0354,
+      "phases": {
+        "preparation": 0.0805,
+        "media_svg": 0.1615,
+        "youtube": 0.0105,
+        "content_assembly": 0.6882,
+        "monetization": 0.0591,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "Wigtownshire_1186ed_luce_bay_explanation_74bc92",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0169,
+      "phases": {
+        "preparation": 0.1144,
+        "media_svg": 0.1068,
+        "youtube": 0.007,
+        "content_assembly": 0.6947,
+        "monetization": 0.0581,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Anglesey_35202a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2376,
+      "phases": {
+        "preparation": 0.12,
+        "media_svg": 0.125,
+        "youtube": 0.0093,
+        "content_assembly": 0.8817,
+        "monetization": 0.0482,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Anglesey_35202a_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9646,
+      "phases": {
+        "preparation": 0.0941,
+        "media_svg": 0.1478,
+        "youtube": 0.0121,
+        "content_assembly": 0.6227,
+        "monetization": 0.05,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Anglesey_35202a_anglesey_light_clust_b45bc5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9028,
+      "phases": {
+        "preparation": 0.059,
+        "media_svg": 0.1263,
+        "youtube": 0.0157,
+        "content_assembly": 0.6023,
+        "monetization": 0.0645,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Wigtownshire_1186ed_west_freugh_radar_ca_72e794",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8616,
+      "phases": {
+        "preparation": 0.0802,
+        "media_svg": 0.132,
+        "youtube": 0.0108,
+        "content_assembly": 0.6576,
+        "monetization": 2.9438,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Anglesey_35202a_raf_valley_ufo_claim_1412ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9855,
+      "phases": {
+        "preparation": 0.0613,
+        "media_svg": 0.1698,
+        "youtube": 0.0113,
+        "content_assembly": 0.628,
+        "monetization": 0.0778,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "Anglesey_35202a_rhosybol_school_sigh_358b89",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.074,
+      "phases": {
+        "preparation": 0.0661,
+        "media_svg": 0.24,
+        "youtube": 0.0136,
+        "content_assembly": 0.6562,
+        "monetization": 0.063,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Brecknockshire_d4a3d4_mod_records_gap_8e12a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0577,
+      "phases": {
+        "preparation": 0.0952,
+        "media_svg": 0.1366,
+        "youtube": 0.0122,
+        "content_assembly": 0.6976,
+        "monetization": 0.0734,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Brecknockshire_d4a3d4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4624,
+      "phases": {
+        "preparation": 0.1184,
+        "media_svg": 0.1112,
+        "youtube": 1.1398,
+        "content_assembly": 0.976,
+        "monetization": 0.0477,
+        "quality_write": 0.0693
+      }
+    },
+    {
+      "base_name": "Brecknockshire_d4a3d4_brecon_red_lights_91d8da",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0187,
+      "phases": {
+        "preparation": 0.0664,
+        "media_svg": 0.1461,
+        "youtube": 0.0102,
+        "content_assembly": 0.6718,
+        "monetization": 0.0743,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "Brecknockshire_d4a3d4_cray_reservoir_orb_0a40f7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9957,
+      "phases": {
+        "preparation": 0.0678,
+        "media_svg": 0.1351,
+        "youtube": 0.0203,
+        "content_assembly": 0.6675,
+        "monetization": 0.0693,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Brecknockshire_d4a3d4_beacons_road_lights_701548",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4838,
+      "phases": {
+        "preparation": 0.0933,
+        "media_svg": 0.1175,
+        "youtube": 0.01,
+        "content_assembly": 0.6786,
+        "monetization": 0.5374,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "Caernarfonshire_667de6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3374,
+      "phases": {
+        "preparation": 0.1263,
+        "media_svg": 0.1714,
+        "youtube": 0.0109,
+        "content_assembly": 0.9166,
+        "monetization": 0.0529,
+        "quality_write": 0.0594
+      }
+    },
+    {
+      "base_name": "Caernarfonshire_667de6_caernarfon_castle_cl_751449",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1207,
+      "phases": {
+        "preparation": 0.1225,
+        "media_svg": 0.1732,
+        "youtube": 0.0181,
+        "content_assembly": 0.7011,
+        "monetization": 0.0648,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Caernarfonshire_667de6_caernarfon_mod_repor_4bec85",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9817,
+      "phases": {
+        "preparation": 0.0828,
+        "media_svg": 0.1381,
+        "youtube": 0.0186,
+        "content_assembly": 0.655,
+        "monetization": 0.0501,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Caernarfonshire_667de6_llandwrog_aviation_c_08148f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0428,
+      "phases": {
+        "preparation": 0.0726,
+        "media_svg": 0.1737,
+        "youtube": 0.0091,
+        "content_assembly": 0.6839,
+        "monetization": 0.0654,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "Caernarfonshire_667de6_north_wales_2001_lig_d6812e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9239,
+      "phases": {
+        "preparation": 0.0729,
+        "media_svg": 0.1065,
+        "youtube": 0.009,
+        "content_assembly": 0.6353,
+        "monetization": 0.0666,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Cardiganshire_0418d7_aberporth_aviation_t_8557ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0892,
+      "phases": {
+        "preparation": 0.1168,
+        "media_svg": 0.126,
+        "youtube": 0.0089,
+        "content_assembly": 0.7268,
+        "monetization": 0.0658,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Cardiganshire_0418d7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4066,
+      "phases": {
+        "preparation": 0.1539,
+        "media_svg": 0.1411,
+        "youtube": 0.0121,
+        "content_assembly": 0.9829,
+        "monetization": 0.0494,
+        "quality_write": 0.0672
+      }
+    },
+    {
+      "base_name": "Cardiganshire_0418d7_cardigan_2009_lights_448565",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0768,
+      "phases": {
+        "preparation": 0.074,
+        "media_svg": 0.1446,
+        "youtube": 0.0122,
+        "content_assembly": 0.7098,
+        "monetization": 0.0762,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "Cardiganshire_0418d7_cardigan_bay_reports_15b2c8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1382,
+      "phases": {
+        "preparation": 0.0742,
+        "media_svg": 0.1457,
+        "youtube": 0.0108,
+        "content_assembly": 0.7933,
+        "monetization": 0.075,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "Cardiganshire_0418d7_llanilar_debris_clai_55ad1d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1013,
+      "phases": {
+        "preparation": 0.105,
+        "media_svg": 0.2129,
+        "youtube": 0.0092,
+        "content_assembly": 0.6586,
+        "monetization": 0.0703,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Carmarthenshire_0d1a35",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4508,
+      "phases": {
+        "preparation": 0.2194,
+        "media_svg": 0.1207,
+        "youtube": 0.0111,
+        "content_assembly": 1.0015,
+        "monetization": 0.0366,
+        "quality_write": 0.0615
+      }
+    },
+    {
+      "base_name": "Carmarthenshire_0d1a35_official_ufo_records_56a07f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0466,
+      "phases": {
+        "preparation": 0.1156,
+        "media_svg": 0.1538,
+        "youtube": 0.0093,
+        "content_assembly": 0.6572,
+        "monetization": 0.052,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "Carmarthenshire_0d1a35_orange_lights_lanter_bd9f0f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9994,
+      "phases": {
+        "preparation": 0.0671,
+        "media_svg": 0.1405,
+        "youtube": 0.0096,
+        "content_assembly": 0.6936,
+        "monetization": 0.0522,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Carmarthenshire_0d1a35_ufo_geography_bounda_be6807",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1516,
+      "phases": {
+        "preparation": 0.1359,
+        "media_svg": 0.1628,
+        "youtube": 0.0105,
+        "content_assembly": 0.7338,
+        "monetization": 0.0661,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Carmarthenshire_0d1a35_south_wales_triangle_1c683f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7199,
+      "phases": {
+        "preparation": 0.1123,
+        "media_svg": 0.1852,
+        "youtube": 0.0113,
+        "content_assembly": 0.7076,
+        "monetization": 0.6657,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "Denbighshire_fc7d7c_berwyn_border_case_9883eb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9806,
+      "phases": {
+        "preparation": 0.0785,
+        "media_svg": 0.1664,
+        "youtube": 0.0095,
+        "content_assembly": 0.6382,
+        "monetization": 0.0524,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Denbighshire_fc7d7c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3953,
+      "phases": {
+        "preparation": 0.1662,
+        "media_svg": 0.1473,
+        "youtube": 0.0114,
+        "content_assembly": 0.9733,
+        "monetization": 0.0342,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "Denbighshire_fc7d7c_police_reports_gaps_3334ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0679,
+      "phases": {
+        "preparation": 0.1388,
+        "media_svg": 0.144,
+        "youtube": 0.0122,
+        "content_assembly": 0.664,
+        "monetization": 0.0653,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "Denbighshire_fc7d7c_modern_lights_explai_abc53c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9786,
+      "phases": {
+        "preparation": 0.0969,
+        "media_svg": 0.1192,
+        "youtube": 0.0142,
+        "content_assembly": 0.659,
+        "monetization": 0.0507,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Denbighshire_fc7d7c_prestatyn_radar_skyw_8aa65d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0045,
+      "phases": {
+        "preparation": 0.0928,
+        "media_svg": 0.151,
+        "youtube": 0.0108,
+        "content_assembly": 0.6406,
+        "monetization": 0.072,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Flintshire_823310",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3267,
+      "phases": {
+        "preparation": 0.1478,
+        "media_svg": 0.1066,
+        "youtube": 0.0115,
+        "content_assembly": 0.9451,
+        "monetization": 0.0528,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "Flintshire_823310_1999_flint_shotton_c_2c3976",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0702,
+      "phases": {
+        "preparation": 0.1097,
+        "media_svg": 0.142,
+        "youtube": 0.0144,
+        "content_assembly": 0.6969,
+        "monetization": 0.0649,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Flintshire_823310_deeside_aviation_lin_c34007",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1118,
+      "phases": {
+        "preparation": 0.1173,
+        "media_svg": 0.1439,
+        "youtube": 0.014,
+        "content_assembly": 0.7086,
+        "monetization": 0.0856,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Flintshire_823310_mod_records_evidence_36683d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9931,
+      "phases": {
+        "preparation": 0.0888,
+        "media_svg": 0.151,
+        "youtube": 0.0081,
+        "content_assembly": 0.6439,
+        "monetization": 0.0641,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "Flintshire_823310_modern_flintshire_re_78e417",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9908,
+      "phases": {
+        "preparation": 0.0642,
+        "media_svg": 0.1508,
+        "youtube": 0.0098,
+        "content_assembly": 0.6669,
+        "monetization": 0.0645,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Glamorgan_7b8978",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3213,
+      "phases": {
+        "preparation": 0.122,
+        "media_svg": 0.1267,
+        "youtube": 0.011,
+        "content_assembly": 0.9607,
+        "monetization": 0.0472,
+        "quality_write": 0.0538
+      }
+    },
+    {
+      "base_name": "Glamorgan_7b8978_mod_glamorgan_logs_0fc45a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0716,
+      "phases": {
+        "preparation": 0.1278,
+        "media_svg": 0.1237,
+        "youtube": 0.0105,
+        "content_assembly": 0.7034,
+        "monetization": 0.0657,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "Glamorgan_7b8978_st_athan_helicopter_140e40",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0085,
+      "phases": {
+        "preparation": 0.0925,
+        "media_svg": 0.1474,
+        "youtube": 0.0122,
+        "content_assembly": 0.669,
+        "monetization": 0.0501,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "Glamorgan_7b8978_bristol_channel_ligh_5a2b73",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0929,
+      "phases": {
+        "preparation": 0.1225,
+        "media_svg": 0.1374,
+        "youtube": 0.0134,
+        "content_assembly": 0.712,
+        "monetization": 0.064,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Glamorgan_7b8978_lantern_flap_2008_09_1d1eef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9471,
+      "phases": {
+        "preparation": 0.0835,
+        "media_svg": 0.1078,
+        "youtube": 0.0117,
+        "content_assembly": 0.6338,
+        "monetization": 0.0702,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2561,
+      "phases": {
+        "preparation": 0.1001,
+        "media_svg": 0.1224,
+        "youtube": 0.0122,
+        "content_assembly": 0.9374,
+        "monetization": 0.0312,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7_berwyn_incident_time_ac4e45",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9298,
+      "phases": {
+        "preparation": 0.0634,
+        "media_svg": 0.129,
+        "youtube": 0.0083,
+        "content_assembly": 0.6425,
+        "monetization": 0.0504,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7_earthquake_meteor_ex_989f0d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5794,
+      "phases": {
+        "preparation": 0.0592,
+        "media_svg": 0.1308,
+        "youtube": 0.0078,
+        "content_assembly": 0.6314,
+        "monetization": 0.7089,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7_official_records_sea_ca6acd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0566,
+      "phases": {
+        "preparation": 0.0524,
+        "media_svg": 0.145,
+        "youtube": 0.0093,
+        "content_assembly": 0.6236,
+        "monetization": 4.1773,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "Merionethshire_8af4e7_county_boundaries_re_faec68",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.9416,
+      "phases": {
+        "preparation": 0.0778,
+        "media_svg": 0.1525,
+        "youtube": 0.0105,
+        "content_assembly": 0.6649,
+        "monetization": 5.9873,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Monmouthshire_e09701_historic_boundaries_0f758d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.003,
+      "phases": {
+        "preparation": 0.1044,
+        "media_svg": 0.1197,
+        "youtube": 0.0138,
+        "content_assembly": 0.6648,
+        "monetization": 0.0626,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Monmouthshire_e09701",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3036,
+      "phases": {
+        "preparation": 0.1193,
+        "media_svg": 0.1076,
+        "youtube": 0.0183,
+        "content_assembly": 0.9442,
+        "monetization": 0.05,
+        "quality_write": 0.0642
+      }
+    },
+    {
+      "base_name": "Monmouthshire_e09701_nineteen_97_reports_bc764f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9578,
+      "phases": {
+        "preparation": 0.0766,
+        "media_svg": 0.1262,
+        "youtube": 0.0087,
+        "content_assembly": 0.6388,
+        "monetization": 0.0701,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Monmouthshire_e09701_mod_chepstow_abergav_bd515e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9639,
+      "phases": {
+        "preparation": 0.0745,
+        "media_svg": 0.1467,
+        "youtube": 0.0121,
+        "content_assembly": 0.6448,
+        "monetization": 0.0498,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "Monmouthshire_e09701_raglan_orange_lights_bacab3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9224,
+      "phases": {
+        "preparation": 0.0512,
+        "media_svg": 0.1372,
+        "youtube": 0.0094,
+        "content_assembly": 0.6221,
+        "monetization": 0.0698,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Montgomeryshire_1814c4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2017,
+      "phases": {
+        "preparation": 0.0918,
+        "media_svg": 0.107,
+        "youtube": 0.0157,
+        "content_assembly": 0.885,
+        "monetization": 0.0487,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Montgomeryshire_1814c4_lantern_years_c92c94",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9176,
+      "phases": {
+        "preparation": 0.0688,
+        "media_svg": 0.1182,
+        "youtube": 0.0087,
+        "content_assembly": 0.6233,
+        "monetization": 0.0664,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Montgomeryshire_1814c4_meifod_triangle_e6e777",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.009,
+      "phases": {
+        "preparation": 0.0919,
+        "media_svg": 0.1248,
+        "youtube": 0.0131,
+        "content_assembly": 0.6721,
+        "monetization": 0.0677,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Montgomeryshire_1814c4_official_records_9b05ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.977,
+      "phases": {
+        "preparation": 0.0752,
+        "media_svg": 0.136,
+        "youtube": 0.0117,
+        "content_assembly": 0.647,
+        "monetization": 0.069,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Montgomeryshire_1814c4_county_boundaries_342e12",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9536,
+      "phases": {
+        "preparation": 0.0695,
+        "media_svg": 0.1244,
+        "youtube": 0.0121,
+        "content_assembly": 0.6446,
+        "monetization": 0.0619,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "Pembrokeshire_b220ff_mod_media_legacy_2f84ce",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0718,
+      "phases": {
+        "preparation": 0.1251,
+        "media_svg": 0.131,
+        "youtube": 0.0085,
+        "content_assembly": 0.6944,
+        "monetization": 0.0736,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Pembrokeshire_b220ff",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2988,
+      "phases": {
+        "preparation": 0.1798,
+        "media_svg": 0.1343,
+        "youtube": 0.0075,
+        "content_assembly": 1.0015,
+        "monetization": 1.8989,
+        "quality_write": 0.0769
+      }
+    },
+    {
+      "base_name": "Pembrokeshire_b220ff_broad_haven_school_9e3d48",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1528,
+      "phases": {
+        "preparation": 0.0652,
+        "media_svg": 0.1726,
+        "youtube": 0.009,
+        "content_assembly": 0.6022,
+        "monetization": 1.2718,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Pembrokeshire_b220ff_little_haven_humanoi_920044",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9705,
+      "phases": {
+        "preparation": 0.0758,
+        "media_svg": 0.1405,
+        "youtube": 0.0069,
+        "content_assembly": 0.6227,
+        "monetization": 0.0871,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "Pembrokeshire_b220ff_local_skies_explanat_7af6c8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0837,
+      "phases": {
+        "preparation": 0.1056,
+        "media_svg": 0.1434,
+        "youtube": 0.0094,
+        "content_assembly": 0.7168,
+        "monetization": 0.0689,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Radnorshire_2d75e1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2844,
+      "phases": {
+        "preparation": 0.0971,
+        "media_svg": 0.1233,
+        "youtube": 0.01,
+        "content_assembly": 0.9484,
+        "monetization": 0.0459,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Radnorshire_2d75e1_llanyre_yellow_craft_28e6b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2802,
+      "phases": {
+        "preparation": 0.0864,
+        "media_svg": 0.131,
+        "youtube": 0.0164,
+        "content_assembly": 0.795,
+        "monetization": 0.2086,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Radnorshire_2d75e1_penybont_flares_d57272",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9386,
+      "phases": {
+        "preparation": 0.097,
+        "media_svg": 0.1138,
+        "youtube": 0.0085,
+        "content_assembly": 0.668,
+        "monetization": 1.0132,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Radnorshire_2d75e1_radnor_range_militar_63616a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9882,
+      "phases": {
+        "preparation": 0.081,
+        "media_svg": 0.1135,
+        "youtube": 0.0148,
+        "content_assembly": 0.6691,
+        "monetization": 0.0735,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "Radnorshire_2d75e1_official_ufo_records_56a07f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0477,
+      "phases": {
+        "preparation": 0.0926,
+        "media_svg": 0.1372,
+        "youtube": 0.0138,
+        "content_assembly": 0.6818,
+        "monetization": 0.0762,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "County_Antrim_405799_psni_ufo_logs_4b4fda",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0416,
+      "phases": {
+        "preparation": 0.118,
+        "media_svg": 0.1259,
+        "youtube": 0.0121,
+        "content_assembly": 0.6842,
+        "monetization": 0.0627,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "County_Antrim_405799",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3663,
+      "phases": {
+        "preparation": 0.128,
+        "media_svg": 0.1567,
+        "youtube": 0.0169,
+        "content_assembly": 0.9292,
+        "monetization": 0.0636,
+        "quality_write": 0.0719
+      }
+    },
+    {
+      "base_name": "County_Antrim_405799_aldergrove_aviation_c0806e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1308,
+      "phases": {
+        "preparation": 0.1387,
+        "media_svg": 0.1312,
+        "youtube": 0.0171,
+        "content_assembly": 0.7115,
+        "monetization": 0.0821,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "County_Antrim_405799_newtownabbey_camera_788897",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9614,
+      "phases": {
+        "preparation": 0.0752,
+        "media_svg": 0.105,
+        "youtube": 0.0167,
+        "content_assembly": 0.6695,
+        "monetization": 0.0611,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "County_Antrim_405799_slemish_disc_report_76ee2f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0,
+      "phases": {
+        "preparation": 0.0591,
+        "media_svg": 0.1342,
+        "youtube": 0.0069,
+        "content_assembly": 0.674,
+        "monetization": 0.075,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "County_Down_8f4eb4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4799,
+      "phases": {
+        "preparation": 0.1747,
+        "media_svg": 0.1277,
+        "youtube": 0.0176,
+        "content_assembly": 1.031,
+        "monetization": 0.0714,
+        "quality_write": 0.0575
+      }
+    },
+    {
+      "base_name": "County_Down_8f4eb4_mod_sighting_logs_28fe32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2396,
+      "phases": {
+        "preparation": 0.1418,
+        "media_svg": 0.3171,
+        "youtube": 0.007,
+        "content_assembly": 0.6634,
+        "monetization": 0.0704,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "County_Down_8f4eb4_annalong_debunking_p_c3086d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0311,
+      "phases": {
+        "preparation": 0.1033,
+        "media_svg": 0.1464,
+        "youtube": 0.0157,
+        "content_assembly": 0.6576,
+        "monetization": 0.0705,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "County_Down_8f4eb4_bangor_orange_lights_236218",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0966,
+      "phases": {
+        "preparation": 0.1023,
+        "media_svg": 0.1942,
+        "youtube": 0.0088,
+        "content_assembly": 0.6862,
+        "monetization": 0.0655,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "County_Down_8f4eb4_down_sighting_cluste_319ef7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0017,
+      "phases": {
+        "preparation": 0.0977,
+        "media_svg": 0.1127,
+        "youtube": 0.0128,
+        "content_assembly": 0.6687,
+        "monetization": 0.0686,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "Fermanagh_69251a_official_records_9b05ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0176,
+      "phases": {
+        "preparation": 0.1206,
+        "media_svg": 0.1171,
+        "youtube": 0.0161,
+        "content_assembly": 0.6572,
+        "monetization": 0.0684,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "Fermanagh_69251a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3414,
+      "phases": {
+        "preparation": 0.1466,
+        "media_svg": 0.1025,
+        "youtube": 0.0104,
+        "content_assembly": 0.9748,
+        "monetization": 0.0481,
+        "quality_write": 0.059
+      }
+    },
+    {
+      "base_name": "Fermanagh_69251a_enniskillen_lights_635528",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0359,
+      "phases": {
+        "preparation": 0.1007,
+        "media_svg": 0.1202,
+        "youtube": 0.0111,
+        "content_assembly": 0.6784,
+        "monetization": 0.078,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "Fermanagh_69251a_st_angelo_aviation_d0f98b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9726,
+      "phases": {
+        "preparation": 0.0582,
+        "media_svg": 0.1364,
+        "youtube": 0.0125,
+        "content_assembly": 0.6595,
+        "monetization": 0.0643,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "County_Londonderry_6c8609",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3488,
+      "phases": {
+        "preparation": 0.1278,
+        "media_svg": 0.1063,
+        "youtube": 0.0099,
+        "content_assembly": 0.9365,
+        "monetization": 0.0937,
+        "quality_write": 0.0746
+      }
+    },
+    {
+      "base_name": "Fermanagh_69251a_kinawley_mountain_se_0ff7d7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7592,
+      "phases": {
+        "preparation": 0.0717,
+        "media_svg": 0.1101,
+        "youtube": 0.0118,
+        "content_assembly": 0.6429,
+        "monetization": 0.8725,
+        "quality_write": 0.0502
+      }
+    },
+    {
+      "base_name": "County_Londonderry_6c8609_moneymore_1956_b990e9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5533,
+      "phases": {
+        "preparation": 0.1369,
+        "media_svg": 0.1506,
+        "youtube": 0.0266,
+        "content_assembly": 1.1042,
+        "monetization": 0.0735,
+        "quality_write": 0.0615
+      }
+    },
+    {
+      "base_name": "County_Londonderry_6c8609_creggan_footage_2ffd08",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4572,
+      "phases": {
+        "preparation": 0.1348,
+        "media_svg": 0.1564,
+        "youtube": 0.0201,
+        "content_assembly": 1.0245,
+        "monetization": 0.0735,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "County_Londonderry_6c8609_official_records_9b05ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2548,
+      "phases": {
+        "preparation": 0.1237,
+        "media_svg": 0.1773,
+        "youtube": 0.0145,
+        "content_assembly": 0.799,
+        "monetization": 0.1003,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "County_Londonderry_6c8609_airfields_flight_pat_77a16d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2724,
+      "phases": {
+        "preparation": 0.1342,
+        "media_svg": 0.1834,
+        "youtube": 0.0231,
+        "content_assembly": 0.801,
+        "monetization": 0.0815,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "Tyrone_619a59_official_records_9b05ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2127,
+      "phases": {
+        "preparation": 0.1377,
+        "media_svg": 0.1729,
+        "youtube": 0.0117,
+        "content_assembly": 0.7656,
+        "monetization": 0.0826,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Tyrone_619a59",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6262,
+      "phases": {
+        "preparation": 0.1659,
+        "media_svg": 0.1639,
+        "youtube": 0.0079,
+        "content_assembly": 1.1152,
+        "monetization": 0.1107,
+        "quality_write": 0.0626
+      }
+    },
+    {
+      "base_name": "Tyrone_619a59_civilian_witness_rep_0394d9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0816,
+      "phases": {
+        "preparation": 0.0695,
+        "media_svg": 0.1612,
+        "youtube": 0.011,
+        "content_assembly": 0.7112,
+        "monetization": 0.079,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "Tyrone_619a59_ordinary_explanation_a805d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1505,
+      "phases": {
+        "preparation": 0.0943,
+        "media_svg": 0.1521,
+        "youtube": 0.0186,
+        "content_assembly": 0.7671,
+        "monetization": 0.0728,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Tyrone_619a59_stewartstown_dungann_85220a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0239,
+      "phases": {
+        "preparation": 0.069,
+        "media_svg": 0.1478,
+        "youtube": 0.03,
+        "content_assembly": 0.6916,
+        "monetization": 0.0492,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "County_Armagh_f58b12",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3568,
+      "phases": {
+        "preparation": 0.1224,
+        "media_svg": 0.156,
+        "youtube": 0.0092,
+        "content_assembly": 0.9461,
+        "monetization": 0.0684,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "County_Armagh_f58b12_abbey_park_triangle_6ff541",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0249,
+      "phases": {
+        "preparation": 0.0849,
+        "media_svg": 0.1399,
+        "youtube": 0.012,
+        "content_assembly": 0.6847,
+        "monetization": 0.0673,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "County_Armagh_f58b12_armagh_sky_explanati_99618a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0462,
+      "phases": {
+        "preparation": 0.111,
+        "media_svg": 0.1289,
+        "youtube": 0.0115,
+        "content_assembly": 0.6836,
+        "monetization": 0.064,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "County_Armagh_f58b12_portadown_eighteen_l_f560b2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0549,
+      "phases": {
+        "preparation": 0.0993,
+        "media_svg": 0.1333,
+        "youtube": 0.0074,
+        "content_assembly": 0.7055,
+        "monetization": 0.0722,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "County_Armagh_f58b12_south_armagh_sas_sto_5a126e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9966,
+      "phases": {
+        "preparation": 0.0783,
+        "media_svg": 0.1369,
+        "youtube": 0.0128,
+        "content_assembly": 0.6741,
+        "monetization": 0.0641,
+        "quality_write": 0.0304
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 440,
+    "reused_pages": 20,
+    "rebuilt_pages": 440,
+    "error_pages": 0,
+    "page_work_wall_seconds": 366.8473,
+    "rebuilt_pages_per_minute": 71.9645,
+    "queued_rebuild_pages_per_minute": 71.9645,
+    "apparent_page_work_speedup": 1.9124,
+    "process_worker_diagnostics": {
+      "completed_pages": 440,
+      "successful_pages": 440,
+      "failed_pages": 0,
+      "worker_summary": {
+        "956": {
+          "pages": 217,
+          "successes": 217,
+          "failures": 0,
+          "total_worker_seconds": 358.6371,
+          "max_worker_seconds": 50.4307,
+          "last_base_name": "County_Armagh_f58b12_portadown_eighteen_l_f560b2"
+        },
+        "19632": {
+          "pages": 223,
+          "successes": 223,
+          "failures": 0,
+          "total_worker_seconds": 361.5385,
+          "max_worker_seconds": 58.5379,
+          "last_base_name": "County_Armagh_f58b12_south_armagh_sas_sto_5a126e"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Cheshire_f5f9e8",
+          "level": 1,
+          "success": true,
+          "worker_pid": 19632,
+          "worker_duration_seconds": 58.5379,
+          "total_seconds": 58.497,
+          "worker_started_at_utc": "2026-06-24T18:03:43.789795Z",
+          "worker_finished_at_utc": "2026-06-24T18:04:42.286853Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Cheshire_f5f9e8_cheshire_boundaries_81b591",
+          "level": 2,
+          "success": true,
+          "worker_pid": 956,
+          "worker_duration_seconds": 50.4307,
+          "total_seconds": 50.3844,
+          "worker_started_at_utc": "2026-06-24T18:03:46.341626Z",
+          "worker_finished_at_utc": "2026-06-24T18:04:36.726110Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Huntingdonshire_d54801",
+          "level": 1,
+          "success": true,
+          "worker_pid": 956,
+          "worker_duration_seconds": 7.9056,
+          "total_seconds": 7.8631,
+          "worker_started_at_utc": "2026-06-24T18:05:26.988864Z",
+          "worker_finished_at_utc": "2026-06-24T18:05:34.851981Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Merionethshire_8af4e7_county_boundaries_re_faec68",
+          "level": 2,
+          "success": true,
+          "worker_pid": 19632,
+          "worker_duration_seconds": 6.9877,
+          "total_seconds": 6.9416,
+          "worker_started_at_utc": "2026-06-24T18:09:07.026086Z",
+          "worker_finished_at_utc": "2026-06-24T18:09:13.967763Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Warwickshire_17be07_leamington_black_rin_47ea8f",
+          "level": 2,
+          "success": true,
+          "worker_pid": 956,
+          "worker_duration_seconds": 6.0806,
+          "total_seconds": 6.039,
+          "worker_started_at_utc": "2026-06-24T18:06:33.192003Z",
+          "worker_finished_at_utc": "2026-06-24T18:06:39.231088Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Merionethshire_8af4e7_official_records_sea_ca6acd",
+          "level": 2,
+          "success": true,
+          "worker_pid": 956,
+          "worker_duration_seconds": 5.105,
+          "total_seconds": 5.0566,
+          "worker_started_at_utc": "2026-06-24T18:09:08.908443Z",
+          "worker_finished_at_utc": "2026-06-24T18:09:13.965098Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Surrey_aeac76_farnborough_guildfor_59df05",
+          "level": 2,
+          "success": true,
+          "worker_pid": 19632,
+          "worker_duration_seconds": 4.5111,
+          "total_seconds": 4.4716,
+          "worker_started_at_utc": "2026-06-24T18:06:30.120958Z",
+          "worker_finished_at_utc": "2026-06-24T18:06:34.592649Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Wigtownshire_1186ed_west_freugh_radar_ca_72e794",
+          "level": 2,
+          "success": true,
+          "worker_pid": 19632,
+          "worker_duration_seconds": 3.9025,
+          "total_seconds": 3.8616,
+          "worker_started_at_utc": "2026-06-24T18:08:40.063017Z",
+          "worker_finished_at_utc": "2026-06-24T18:08:43.924684Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "East_Lothian_a7dd3d_false_positives_f6ef28",
+          "level": 2,
+          "success": true,
+          "worker_pid": 956,
+          "worker_duration_seconds": 3.5112,
+          "total_seconds": 3.4673,
+          "worker_started_at_utc": "2026-06-24T18:07:31.905184Z",
+          "worker_finished_at_utc": "2026-06-24T18:07:35.372496Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Lincolnshire_92cf52_mod_reports_853d4a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 956,
+          "worker_duration_seconds": 3.4051,
+          "total_seconds": 3.3596,
+          "worker_started_at_utc": "2026-06-24T18:05:45.582312Z",
+          "worker_finished_at_utc": "2026-06-24T18:05:48.941923Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
