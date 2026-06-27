@@ -193,4 +193,3 @@ site_image_description: A quiet Bedfordshire night sky above town rooftops, with
   <p class="home-map-panel-source"><a href="https://commons.wikimedia.org/wiki/File:British_Isles_map_showing_UK,_Republic_of_Ireland,_and_historic_counties.svg" rel="license noopener" target="_blank">Map source (CC BY-SA 4.0)</a></p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
-
