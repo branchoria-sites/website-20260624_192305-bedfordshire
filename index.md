@@ -175,7 +175,7 @@ site_image_description: A quiet Bedfordshire night sky above town rooftops, with
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-preview-preload="all">
+  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-layout="uk-counties" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-fit="linked-bounds" data-map-preview-preload="all">
     <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
     <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
       <img src="{{ '/assets/images/Aberdeenshire_e04348-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
